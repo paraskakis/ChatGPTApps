@@ -12,7 +12,7 @@ The main Instructor is Emmanuel Paraskakis, an entrepreneur, product management 
 ## Metadata
 ### Golden Prompts
 #### Direct Prompts
-- Show me all Lightning Lesson by Emmanuel Paraskakis
+- Show me all Lightning Lessons by Emmanuel Paraskakis
 - I'm searching for live training by Emmanuel Paraskakis
 - Lessons on Maven about APIs
 - All Maven lessons on MCP
