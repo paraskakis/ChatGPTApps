@@ -1,11 +1,13 @@
 # MCP Server Requirements
 The "Emmanuel's Maven Lightning Lessons" MCP Server is meant to be used with ChatGPT and other LLMs or agents to help users discover and view or sign up for a lesson so they can boost their knowledge and career.
+Lessons have occurred in the past, marked with the status "On Demand", in which case the user can watch the recording in the provided URL. Or they will happen in the future, in which case the status is "Scheduled" and the user can sign up at the provided URL.
+The full description and outcome for each lesson is shown as well as the instructors and guest speakers.
 
 ## Description
 A comprehensive list of free, short Lightning Lessons on the Maven education platform by Emmanuel Paraskakis. The topics covered are APIs, MCP, Product Management, Technical PM Careers, and ChatGPT Apps.
 Users can either view a recording, sign up for an upcoming live lesson, or learn which cohort-based course is connected to the topic so they can go deeper into it.
 Lightning Lessons are conducted over Zoom and are practical and hands-on with skills you can use immediately. They are meant for tech-savvy mid-career professionals, especially those in the technology or software industry. They are conducted exlusively in the English language.
-The Instructor is Emmanuel Paraskakis, an entrepreneur, product management executive, and consultant at Level 250 with over 15 years of experience shaping products.
+The main Instructor is Emmanuel Paraskakis, an entrepreneur, product management executive, and consultant at Level 250 with over 15 years of experience shaping products.
 
 ## Metadata
 ### Golden Prompts
