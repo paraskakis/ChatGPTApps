@@ -1,0 +1,782 @@
+{
+  "lightningLessons": [
+    {
+      "id": "how-to-break-into-api-product-management",
+      "title": "How to Break into API Product Management",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/521e40/how-to-break-into-api-product-management",
+      "date": "2025-01-29",
+      "status": "On Demand",
+      "courseName": "API Fundamentals for Product Managers",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-fundamentals",
+      "description": "API Product Management is more technical, more challenging, and higher-stakes than a 'core' PM role. The lesson shares insider strategies developed over 15+ years in executive positions, helping participants fast-track careers in this specialized field by understanding compensation benefits, technical depth, and greater autonomy.",
+      "outcomes": [
+        {
+          "title": "What Is API Product Management and Why It's Worth Pursuing",
+          "description": "Understand how API PM differs from traditional PM roles—and why it pays off."
+        },
+        {
+          "title": "Where to Find an API Product Management Job",
+          "description": "Discover which industries and companies need API PMs, and learn how to network with them."
+        },
+        {
+          "title": "How to Prepare for the API Product Manager Interview",
+          "description": "Learn what hiring managers expect so you can stand out and secure the offer."
+        },
+        {
+          "title": "How to Upskill for the API PM Role",
+          "description": "Identify gaps in your technical or market knowledge, then build a plan to fill them."
+        }
+      ]
+    },
+    {
+      "id": "leverage-ai-to-drive-better-api-product-decisions",
+      "title": "Leverage AI to Drive Better API Product Decisions",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/bb8fa7/leverage-ai-to-drive-better-api-product-decisions",
+      "date": "2025-04-09",
+      "status": "On Demand",
+      "courseName": "API Fundamentals for Product Managers",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-fundamentals",
+      "description": "AI-powered API analytics transforms product managers from reactive decision-makers into strategic leaders. The session demonstrates how Moesif's dashboards identify usage patterns, predict developer needs, and quantify business impact. Successful API PMs use these tools to make confident decisions and prove their product's value.",
+      "outcomes": [
+        {
+          "title": "Visualize Your API Developer's Journey",
+          "description": "Map and analyze the complete customer journey from signup through paid conversion."
+        },
+        {
+          "title": "Spot Conversion Roadblocks",
+          "description": "Identify exactly where and why developers abandon your API funnel to enable targeted improvements."
+        },
+        {
+          "title": "Make Data-Driven API Decisions",
+          "description": "Use AI insights to guide feature prioritization and measure impact of API changes on business metrics."
+        },
+        {
+          "title": "Customize Analytics Without Code",
+          "description": "Tailor Moesif dashboards to API product needs without requiring technical expertise or engineering support."
+        }
+      ]
+    },
+    {
+      "id": "build-your-own-api-prototype-in-20-minutes-with-ai",
+      "title": "Build Your Own API Prototype in 20 Minutes with AI",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/da039e/build-your-own-api-prototype-in-20-minutes-with-ai",
+      "date": "2025-04-16",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "At the conclusion of this hands-on workshop, participants will develop an API prototype suitable for: customer discovery and feedback validation, internal product pitches, concrete product specifications, and enabling frontend teams to begin development while backend implementation occurs.",
+      "outcomes": [
+        {
+          "title": "OpenAPI Specification Generation",
+          "description": "Leverage AI to generate precise API specifications efficiently."
+        },
+        {
+          "title": "API Design Validation",
+          "description": "Use free validation and rating tools to ensure your API design complies with industry standards and best practices."
+        },
+        {
+          "title": "Mock API Deployment",
+          "description": "Implement a mock API complete with comprehensive documentation for immediate customer interaction."
+        }
+      ]
+    },
+    {
+      "id": "create-ai-powered-api-documentation-fast",
+      "title": "Create AI-Powered API Documentation Fast",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/33bd21/create-ai-powered-api-documentation-fast",
+      "date": "2025-04-30",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "Great documentation makes APIs usable, discoverable, and trustworthy. Yet, crafting high-quality docs manually is slow and error-prone. By automating documentation creation with AI, teams can ship faster, reduce mistakes, and enhance developer satisfaction.",
+      "outcomes": [
+        {
+          "title": "Build Your API Docs Quickly",
+          "description": "Rapidly generate clear, professional documentation from any OpenAPI specification using Theneo."
+        },
+        {
+          "title": "Enhance Docs with AI Features",
+          "description": "Incorporate advanced tools including AI-powered search, interactive try-it-out functionality, and automated changelogs."
+        },
+        {
+          "title": "Automate Writing Tasks",
+          "description": "Use AI to eliminate repetitive writing, allowing focus on clarity and quality."
+        },
+        {
+          "title": "Integrate into Your Workflow",
+          "description": "Understand how to smoothly incorporate AI-driven documentation tools into PM and development cycles."
+        }
+      ]
+    },
+    {
+      "id": "develop-deploy-and-secure-your-api-with-ai-codegen",
+      "title": "Develop, Deploy and Secure Your API with AI Codegen",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/867a8a/develop-deploy-and-secure-your-api-with-ai-codegen",
+      "date": "2025-05-07",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "This hands-on session explores using AI tools to accelerate API delivery while maintaining quality and consistency. Participants learn how to take an API product from concept through production using validated specifications with Replit for building and Zuplo for deployment and security.",
+      "outcomes": [
+        {
+          "title": "Build Your API with AI Code Generation",
+          "description": "Use AI-generated code to rapidly construct your API's initial version from validated specifications."
+        },
+        {
+          "title": "Test Your API Implementation Effectively",
+          "description": "Employ efficient testing scenarios to confirm your API functions as expected and meets customer needs."
+        },
+        {
+          "title": "Deploy and Secure Your API",
+          "description": "Deploy the API behind a cloud API gateway for protection while maintaining alignment with original requirements."
+        },
+        {
+          "title": "Evolve your technical PM skills",
+          "description": "Understand how to advance an API product from initial concept to production, expanding your impact as a Product Manager."
+        }
+      ]
+    },
+    {
+      "id": "ai-agents-are-coming-for-your-api-are-you-ready",
+      "title": "AI Agents are Coming for Your API - Are You Ready?",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Zdenek Nemec"],
+      "url": "https://maven.com/p/d4116d/ai-agents-are-coming-for-your-api-are-you-ready",
+      "date": "2025-05-21",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "AI agents will soon dominate how APIs are consumed. The lesson presents practical strategies to future-proof APIs and turn disruption into a competitive advantage. If your API isn't easily accessible to agents, they may scrape your website or use competitors' APIs instead.",
+      "outcomes": [
+        {
+          "title": "Identify AI Agent Integration Challenges",
+          "description": "Recognize common issues AI agents encounter when connecting with current APIs."
+        },
+        {
+          "title": "Understand How LLMs Consume APIs",
+          "description": "Learn how large language models interact with APIs using tools like Model Context Protocol (MCP)."
+        },
+        {
+          "title": "Assess Your API's Readiness",
+          "description": "Use a checklist to evaluate gaps in your APIs and prioritize improvements."
+        },
+        {
+          "title": "Create a Preparation Plan",
+          "description": "Develop actionable steps to make your APIs compatible with AI agents."
+        }
+      ]
+    },
+    {
+      "id": "build-ai-ready-apis-with-mcp",
+      "title": "Build AI-Ready APIs with MCP",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/ec0698/build-ai-ready-ap-is-with-mcp",
+      "date": "2025-05-28",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "Model Context Protocol (MCP) has become a key topic among API providers and consumers. MCP lets AI agents and Large Language Models (LLMs) access APIs, introducing a new category of consumers for API providers.",
+      "outcomes": [
+        {
+          "title": "Recognize MCP's Importance for API Providers",
+          "description": "Learn how Model Context Protocol enhances API integration with AI Agents and LLMs."
+        },
+        {
+          "title": "Discover the Current State of MCP",
+          "description": "Examine the latest developments and applications of MCP in the industry."
+        },
+        {
+          "title": "Generate an MCP Server from OpenAPI Specs",
+          "description": "Create an MCP server using existing OpenAPI specifications."
+        },
+        {
+          "title": "Incorporate MCP into Your API Roadmap",
+          "description": "Define integration steps for your API development plans."
+        }
+      ]
+    },
+    {
+      "id": "hands-on-mcp-from-api-to-live-mcp-server-in-minutes",
+      "title": "Hands-On MCP: From API to Live MCP Server in Minutes",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Anthony Perasso"],
+      "url": "https://maven.com/p/fa9d3e/hands-on-mcp-from-api-to-live-mcp-server-in-minutes",
+      "date": "2025-08-27",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "The session emphasizes securing APIs by publishing official MCP servers. It warns that only trust MCP servers from the owner of a resource and encourages rapid deployment to prevent unauthorized access to your API endpoints.",
+      "outcomes": [
+        {
+          "title": "Generate MCP servers from OpenAPI specs",
+          "description": "Transform existing APIs into MCP servers without requiring custom code."
+        },
+        {
+          "title": "Test locally on Claude",
+          "description": "Validate MCP integrations through live AI-agent testing directly within Claude."
+        },
+        {
+          "title": "Deploy to MCP Registry",
+          "description": "Publish your MCP server publicly to expand your API's accessibility."
+        },
+        {
+          "title": "Plan next steps",
+          "description": "Receive guidance on MCP learning resources and server security best practices."
+        }
+      ]
+    },
+    {
+      "id": "12-things-every-api-product-needs-to-be-agent-ready",
+      "title": "12 Things Every API Product Needs to Be Agent-Ready",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/6d0f32/12-things-every-api-product-needs-to-be-agent-ready",
+      "date": "2025-10-06",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Artificial intelligence agents are already transforming how APIs are consumed and integrated. This session addresses the challenge that next-generation API consumers—AI-driven agents—demand clarity and simplicity. The lesson introduces 12 actionable strategies to help API product managers, engineers, and architects prepare for agent-driven ecosystems.",
+      "outcomes": [
+        {
+          "title": "Define Your 2026 API Roadmap",
+          "description": "Understand that 80% of your API product roadmap should prioritize agent readiness and learn the 12 core requirements."
+        },
+        {
+          "title": "Understand How To Get Started with MCP",
+          "description": "Discover why Model Context Protocol enables agents and LLMs to access your APIs and why immediate adoption matters."
+        },
+        {
+          "title": "Prioritize Design Changes to Your API Product",
+          "description": "Identify necessary API optimizations so agents can actually use them effectively."
+        },
+        {
+          "title": "Prepare Your Infrastructure for AI Agents",
+          "description": "Determine infrastructure improvements needed to support the incoming agent wave and capitalize on new opportunities."
+        }
+      ]
+    },
+    {
+      "id": "agent-impact-from-chaos-to-clarity",
+      "title": "Agent Impact: From Chaos to Clarity",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Abhijit Kane"],
+      "url": "https://maven.com/p/fca59a/agent-impact-from-chaos-to-clarity",
+      "date": "2025-10-15",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "This lesson explores how organizations can shift from reactive, issue-by-issue problem-solving to systems that analyze, connect, and prioritize thousands of signals simultaneously. Through Postman's experience building an in-house agent, participants learn how AI can function as a teammate, synthesizing feedback and suggesting solutions.",
+      "outcomes": [
+        {
+          "title": "Identify the (large) problem",
+          "description": "Solving issues one-by-one slowed progress. Shifting to graph-level analysis unlocked scale."
+        },
+        {
+          "title": "How an AI agent can synthesize thousands of issues",
+          "description": "Generate actionable insights from all issues, feature requests, and user comments."
+        },
+        {
+          "title": "Integrating an agent into Slack",
+          "description": "Give everyone in your organization instant, citation-backed access to community knowledge."
+        },
+        {
+          "title": "Quantify the outcome",
+          "description": "Save time for product managers, designers, and engineers, freeing them to focus on building rather than just reading."
+        }
+      ]
+    },
+    {
+      "id": "use-ai-to-build-your-ai-product",
+      "title": "Use AI To Build Your AI Product",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Sagar Batchu"],
+      "url": "https://maven.com/p/0617ff/use-ai-to-build-your-ai-product",
+      "date": "2025-10-20",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Speakeasy is a platform for creating, curating, and hosting MCP servers. The company uses AI behind the scenes to build, test, support & document new AI developer products, serving as the ground zero for understanding how LLMs can accelerate both product development and operations.",
+      "outcomes": [
+        {
+          "title": "Changing the way you build with AI",
+          "description": "Curate MCP servers for day-to-day work in Revops, GTM, Customer Support, Documentation and Analytics."
+        },
+        {
+          "title": "Prompt versioning",
+          "description": "Bake prompts into your product and understand their lifecycle."
+        },
+        {
+          "title": "Eval testing",
+          "description": "Ensure customer experience with AI dev tools remains high-quality."
+        },
+        {
+          "title": "Safe rollout of LLM-based features",
+          "description": "Prevent hallucinations and model changes from affecting your product."
+        }
+      ]
+    },
+    {
+      "id": "build-your-own-ai-powered-api-for-n8n",
+      "title": "Build Your Own AI-Powered API for n8n",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Tim Maguire"],
+      "url": "https://maven.com/p/18bd3a/build-your-own-ai-powered-api-for-n8n",
+      "date": "2025-10-29",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Retail teams lose hours every week manually classifying products across different marketplace taxonomies. This means slower launches, inconsistent data, and missed revenue. With today's AI tools and APIs, this problem can be solved in days, not months. This session shows how to use LLMs and lightweight frameworks to automate categorization at scale, with human guardrails for quality and control.",
+      "outcomes": [
+        {
+          "title": "How to turn a ChatGPT prototype into a production-ready API",
+          "description": "See how an idea tested in a chat window evolved into a fully deployed Flask API with OpenAPI docs."
+        },
+        {
+          "title": "Design AI-Powered APIs that blend reasoning and rules",
+          "description": "Learn how to balance LLM flexibility with deterministic logic for predictable, auditable results."
+        },
+        {
+          "title": "Build and Orchestrate AI Workflows",
+          "description": "Explore tools such as n8n, ChatGPT, Claude, and marketplace APIs work together to automate publishing across platforms."
+        },
+        {
+          "title": "Test and Evaluate AI APIs in production",
+          "description": "Understand practical methods for creating automated evals, tracking accuracy, and managing model drift and rate limits."
+        },
+        {
+          "title": "Lessons from Building an AI API for Marketplace Taxonomies",
+          "description": "Take away real work insights on managing API governance, cost control, and reliability while shipping quickly."
+        }
+      ]
+    },
+    {
+      "id": "fix-your-broken-api-process",
+      "title": "Fix Your Broken API Process",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Gareth Faull"],
+      "url": "https://maven.com/p/a352d5/fix-your-broken-api-process",
+      "date": "2025-11-03",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "Inconsistent APIs slow teams down and frustrate users. This live 45-minute workshop is built for PMs, Engineers, and Architects who ship APIs every day.",
+      "outcomes": [
+        {
+          "title": "Score your API process live with a 20-point checklist",
+          "description": "Evaluate your delivery flow step-by-step and find the biggest blockers to API consistency and speed."
+        },
+        {
+          "title": "Discover what good looks like for real API teams",
+          "description": "See how top organizations structure governance that actually accelerates development."
+        },
+        {
+          "title": "Align PMs, Engineers, and Architects around one process",
+          "description": "Turn messy handoffs into smooth collaboration using shared API lifecycle rules."
+        },
+        {
+          "title": "Make your APIs consistent, secure, and AI-ready",
+          "description": "Understand how strong governance prepares your APIs for agents, automation, and scale."
+        },
+        {
+          "title": "Leave with your own API improvement plan",
+          "description": "Walk away knowing your score, your next prioritized actions, and a template to start improving tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "land-your-next-technical-product-manager-job-with-ai",
+      "title": "Land Your Next Technical Product Manager Job With AI",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Itay Sharfi"],
+      "url": "https://maven.com/p/a26fc1/land-your-next-technical-product-manager-job-with-ai",
+      "date": "2025-11-10",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "Having interviewed hundreds of applicants, the instructors reveal that success isn't about talent—it's demonstrated experience, proof, and a helpful network. The session replaces spray & pray approaches with strategic learn & show tactics.",
+      "outcomes": [
+        {
+          "title": "How to Make the Odds Be in Your Favor",
+          "description": "Target high-growth companies hiring for in-demand roles."
+        },
+        {
+          "title": "Customize to Maximize Your Opportunity",
+          "description": "Tailor applications and leverage referrals, standout resumes, and personal connections."
+        },
+        {
+          "title": "Highlight Transferable Skills",
+          "description": "Personalize resumes to get more interviews and optimize for Applicant Tracking Systems."
+        },
+        {
+          "title": "Be a Fit: Why Similarity Matters",
+          "description": "Employers seek proven experience in similar roles (domain, tech, seniority, complexity) to reduce hiring risk."
+        },
+        {
+          "title": "Learn by Example",
+          "description": "Good narrative examples from actual applicants' resumes and cover letters are provided."
+        }
+      ]
+    },
+    {
+      "id": "how-to-get-hired-at-an-ai-startup",
+      "title": "How to Get Hired at an AI Startup",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Tyler Dunn"],
+      "url": "https://maven.com/p/8fc0ef/how-to-get-hired-at-an-ai-startup",
+      "date": "2025-11-19",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "A candid conversation exploring what founders seek when building teams. Participants gain insider perspectives on evolving platform and technical product roles, founder hiring philosophy, and the skills that help PMs and engineers thrive in fast-moving AI companies.",
+      "outcomes": [
+        {
+          "title": "Understand the Founder Mindset",
+          "description": "Learn how founders evaluate talent & product sense and why some candidates immediately stand out."
+        },
+        {
+          "title": "Spot Emerging Roles in AI",
+          "description": "Understand how AI startups redefine the boundaries between Product, Engineering, and Platform roles."
+        },
+        {
+          "title": "Position Yourself as a Multiplier",
+          "description": "Discover how to present your experience so founders see you as someone who amplifies team impact, not just fills a role."
+        },
+        {
+          "title": "Navigate Early-Stage Environments",
+          "description": "Get strategies for thriving in the ambiguity, speed, and experimentation that define successful AI startups."
+        },
+        {
+          "title": "Chart Your Career Path",
+          "description": "Walk away with practical frameworks for deciding whether to join, lead, or found in the AI startup ecosystem."
+        }
+      ]
+    },
+    {
+      "id": "publish-your-first-mcp-server-today",
+      "title": "Publish Your First MCP Server Today",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/455b9d/publish-your-first-mcp-server-today",
+      "date": "2025-11-25",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "AI agents need access to your APIs and data. Model Context Protocol (MCP) is the open standard that makes this possible, and it just turned one year old. This session covers why major companies are adopting MCP, the latest spec updates, and how to publish your first working server—whether you're building agents or evaluating MCP for your team.",
+      "outcomes": [
+        {
+          "title": "Understand the Model Context Protocol specification",
+          "description": "Learn what's in the 2025-11-25 spec release and how MCP enables AI agents to safely access your API tools and data."
+        },
+        {
+          "title": "Publish your first MCP server in minutes",
+          "description": "Follow along as we build and publish a working MCP server that lets LLMs and agents discover and see your APIs."
+        },
+        {
+          "title": "Connect and test MCP servers with agents",
+          "description": "Connect your MCP server to Claude and other tools that help you test and debug it."
+        },
+        {
+          "title": "Understand security risks when exposing APIs to AI",
+          "description": "Learn common security pitfalls and basic precautions to consider when connecting agents to your systems."
+        }
+      ]
+    },
+    {
+      "id": "the-double-life-of-the-api-product-manager",
+      "title": "The Double Life of the API Product Manager",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/67e697/the-double-life-of-the-api-product-manager",
+      "date": "2025-12-03",
+      "status": "On Demand",
+      "courseName": "API Fundamentals for Product Managers",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-fundamentals",
+      "description": "APIs are ubiquitous, and with AI and intelligent agents becoming increasingly prevalent, API products face unprecedented demand. However, most product managers lack the expertise to navigate this specialized field. Drawing on 15+ years of API PM leadership experience, this session provides a streamlined pathway for career transition. Notably, platform and API specialists earn approximately 19% more than generalist product managers on average.",
+      "outcomes": [
+        {
+          "title": "Why so few PMs know APIs & MCP well & how you can join them",
+          "description": "APIs require technical fluency because your audience comprises developers; effective communication demands speaking their language."
+        },
+        {
+          "title": "Why API PM is 2x challenging but also super rewarding",
+          "description": "Your product enables solutions you may never envision, demanding greater effort while making you indispensable."
+        },
+        {
+          "title": "Top 5 ways to do API PM really well (that most people miss)",
+          "description": "Master five specialized competencies alongside standard PM expertise, with AI and technical specifications playing central roles."
+        },
+        {
+          "title": "What the top API-as-a-Product companies do differently",
+          "description": "Industry leaders like Stripe, Twilio, and OpenAI prioritize API Product Management discipline when recruiting talent."
+        },
+        {
+          "title": "How to become more technical as a PM in 2026",
+          "description": "Develop a personalized strategy to deepen technical knowledge and cultivate the specialized skills required for technical product management roles."
+        }
+      ]
+    },
+    {
+      "id": "design-a-public-api-product-from-scratch",
+      "title": "Design a Public API Product from Scratch",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/11ff34/design-a-public-api-product-from-scratch",
+      "date": "2026-01-05",
+      "status": "On Demand",
+      "courseName": "API Fundamentals for Product Managers",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-fundamentals",
+      "description": "A public API transforms your product into a platform, reducing churn as users integrate it into workflows. This 30-minute session shows how to progress from raw user feedback to a validated API design, using a real case study.",
+      "outcomes": [
+        {
+          "title": "Collect & Organize Developers' API Requirements",
+          "description": "Transform data from existing users into actionable patterns and use cases through AI-assisted organization."
+        },
+        {
+          "title": "Break Down Use Cases into Automation Outcomes",
+          "description": "Convert user needs into specific API endpoints and response structures with meaningful error handling."
+        },
+        {
+          "title": "Generate an API Design as a Hypothesis",
+          "description": "Leverage provided prompts to create an API blueprint informed by your context and market research."
+        },
+        {
+          "title": "Get Ready to Validate the API with Real Users",
+          "description": "Learn validation techniques against standards and methods for gathering developer feedback."
+        }
+      ]
+    },
+    {
+      "id": "design-a-partner-api-that-drives-revenue",
+      "title": "Design a Partner API That Drives Revenue",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/8e654f/design-a-partner-api-that-drives-revenue",
+      "date": "2026-01-12",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "Partner APIs help platforms grow by empowering people who drive revenue. This 30-minute workshop demonstrates how to transform market insights into a real API design using Maven as an example, showing how to identify partner needs, prioritize by impact, and produce a testable specification.",
+      "outcomes": [
+        {
+          "title": "Map Partner Workflows to Platform Capabilities",
+          "description": "Understand how partners currently work and which platform features can enable their automations."
+        },
+        {
+          "title": "Synthesize Requirements and Prioritize by Revenue Impact",
+          "description": "Learn to rank API capabilities by what drives partner success, recognizing that not all features matter equally."
+        },
+        {
+          "title": "Generate an API Design & Spec to Gather User Feedback",
+          "description": "Walk away with a standards-based OpenAPI spec usable as a prototype for validation with real users."
+        },
+        {
+          "title": "Design for AI Agents from Day One",
+          "description": "Build in support for AI agents and MCP so your API is ready for future partner workflows."
+        }
+      ]
+    },
+    {
+      "id": "upgrade-your-api-design-with-ai",
+      "title": "Upgrade Your API Design with AI",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/fed1c1/upgrade-your-api-design-with-ai",
+      "date": "2026-01-19",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "Rushing to code with GenAI creates technical debt. To build production-grade APIs, you need a structured approach. James Higginbotham (LaunchAny) demonstrates the ADDR process: a methodology that turns LLMs into API Design Coaches. You will learn to cut design time by 60% while delivering high-quality, business-aligned, and AI-ready APIs.",
+      "outcomes": [
+        {
+          "title": "Learn a Structured API Design Method",
+          "description": "Complete annotated design session using the ADDR process (Align, Define, Design, Refine)."
+        },
+        {
+          "title": "Experience a Real API Design Session",
+          "description": "Walk through of actual API design with prompting tips, guardrails, and example outputs."
+        },
+        {
+          "title": "Choose Your Own AI API Design Tools",
+          "description": "Select an LLM model trained to solve API design challenges."
+        },
+        {
+          "title": "Cut API Design Time by 60%",
+          "description": "Generate job stories, profiles, and OpenAPI specs in minutes."
+        },
+        {
+          "title": "Generate Production-Ready Specs",
+          "description": "Auto-generate high-fidelity OpenAPI 3.1 specs and README documentation aligned with your style guide."
+        }
+      ]
+    },
+    {
+      "id": "master-mcp-essentials-for-pms",
+      "title": "Master MCP Essentials for PMs",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/2b57c0/master-mcp-essentials-for-pms",
+      "date": "2026-01-21",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "MCP is emerging as the standard way AI apps connect to real tools and data, like APIs for agents. For product managers, it unlocks connected ChatGPT experiences and store-ready apps while reducing one-off integrations. This lesson covers what MCP is, the current state of the specification, and how to try it in ChatGPT, including understanding the protocol's maturity level and potential risks.",
+      "outcomes": [
+        {
+          "title": "Explain MCP in plain PM language",
+          "description": "Understand clients/servers, tools/resources, and how MCP lets agents and LLMs see your data."
+        },
+        {
+          "title": "Spot product bets MCP unlocks",
+          "description": "Map MCP to agents and connected apps, API strategy, and what it enables for ChatGPT experiences and store-ready apps."
+        },
+        {
+          "title": "Assess spec maturity and risks",
+          "description": "Know what's stable versus evolving, plus authentication, security, and how governance is shaping the protocol."
+        },
+        {
+          "title": "Try MCP inside an LLM (hands-on)",
+          "description": "Add a remote MCP server and run tool calls end-to-end to brainstorm product ideas."
+        },
+        {
+          "title": "Where to find the best next resources",
+          "description": "Leave with key documentation, links, resources, and communities to follow as MCP evolves in 2026."
+        }
+      ]
+    },
+    {
+      "id": "create-mcp-tool-evals-before-you-ship",
+      "title": "Create MCP Tool Evals Before You Ship",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/1c26ae/create-mcp-tool-evals-before-you-ship",
+      "date": "2026-01-28",
+      "status": "On Demand",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "MCP makes LLM applications powerful, but incorrect tool calls can disrupt workflows, consume tokens inefficiently, or return faulty data. Tool evaluations measure task success, identify selection errors early, and detect degradation as APIs and data evolve. This session covers setting up a repeatable evaluation framework using MCPJam to enhance reliability and monitor regressions during updates.",
+      "outcomes": [
+        {
+          "title": "Understand tool calls and failure modes",
+          "description": "Learn how LLMs select MCP tools, what drives success rate, and common routing failures."
+        },
+        {
+          "title": "Set up MCPJam with a sample MCP server",
+          "description": "Install MCPJam, connect to a remote MCP server, and verify tool calls end-to-end."
+        },
+        {
+          "title": "Build a repeatable tools eval harness",
+          "description": "Add sample prompts + assertions to validate tool selection and outputs for key user requests."
+        },
+        {
+          "title": "Run evals and collect data",
+          "description": "Execute the harness, read pass/fail results, and diagnose tool mismatches."
+        },
+        {
+          "title": "Next Steps: Operationalize evals to prevent drift",
+          "description": "Scale your workflow using the MCPJam CLI and CI, collect real user prompts, and re-run as APIs and data evolve."
+        }
+      ]
+    },
+    {
+      "id": "build-an-mcp-server-for-chatgpt-apps",
+      "title": "Build an MCP Server for ChatGPT Apps",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/02cd01/build-an-mcp-server-for-chat-gpt-apps",
+      "date": "2026-02-05",
+      "status": "Scheduled",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "OpenAI's ChatGPT Store is becoming a new distribution channel for products. Success requires two components: a Web UI component and an MCP server enabling ChatGPT to call data tools. Product managers and engineers who can convert existing APIs into hosted MCP servers (with minimal or no code) can quickly prototype store-ready applications, test market demand, and launch products to capitalize on this emerging opportunity.",
+      "outcomes": [
+        {
+          "title": "Map ChatGPT Store requirements",
+          "description": "Understand the two main parts (Web component + MCP server) and what the Store will evaluate."
+        },
+        {
+          "title": "Generate a hosted MCP server",
+          "description": "Use your existing API to generate tools and host a remote MCP server in under 20 minutes."
+        },
+        {
+          "title": "Connect MCP to a simple Web component",
+          "description": "Wire the server to a minimal UI and test end-to-end tool calls."
+        },
+        {
+          "title": "Submit with a practical checklist",
+          "description": "Know what to document, test, and package before you submit to the ChatGPT Store."
+        }
+      ]
+    },
+    {
+      "id": "design-chatgpt-apps-worth-building",
+      "title": "Design ChatGPT Apps Worth Building",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/4d9d7d/design-chat-gpt-apps-worth-building",
+      "date": "2026-02-18",
+      "status": "Scheduled",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "ChatGPT Apps enable third parties to extend ChatGPT's capabilities, but aren't suitable for every product. This lesson equips Product Managers and business leaders with foundations to evaluate opportunities and identify which ideas align with the platform's strengths.",
+      "outcomes": [
+        {
+          "title": "Understand what a ChatGPT App actually is",
+          "description": "Choose a set of capabilities the model calls mid-conversation, not a replica of your existing product."
+        },
+        {
+          "title": "Recognize good-fit vs. poor-fit use cases",
+          "description": "Use OpenAI's Know, Do, Show framework and discuss real examples."
+        },
+        {
+          "title": "Ask the right scoping questions to ensure success",
+          "description": "Determine whether your concept requires conversation, can complete within chat, and offers capabilities ChatGPT can't already provide."
+        },
+        {
+          "title": "Know the three display modes for ChatGPT Apps",
+          "description": "Understand when to use inline cards, carousels, and fullscreen presentations for different use cases."
+        }
+      ]
+    },
+    {
+      "id": "get-your-chatgpt-app-approved-by-openai",
+      "title": "Get Your ChatGPT App Approved by OpenAI",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/74283e/get-your-chat-gpt-app-approved-by-open-ai",
+      "date": "2026-02-25",
+      "status": "Scheduled",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "OpenAI reviews every ChatGPT App before launch. Many submissions face rejection for preventable reasons. This lesson provides PMs and business leaders with an overview of the submission process, platform constraints affecting product development, and common pitfalls that delay approval.",
+      "outcomes": [
+        {
+          "title": "Know what goes into a ChatGPT App submission",
+          "description": "Understanding app naming, tool descriptions, privacy policies, test accounts, verified organizations, logos, and screenshots."
+        },
+        {
+          "title": "Recognize common rejection reasons to flag risks",
+          "description": "Identifying issues like vague tool descriptions, unnecessary data requests, and misleading metadata."
+        },
+        {
+          "title": "Understand current platform constraints",
+          "description": "Only physical goods sales allowed, no advertising, restricted to audiences 13+, limited data collection capabilities."
+        },
+        {
+          "title": "Map out a realistic timeline",
+          "description": "Planning from concept to publication, including what becomes locked post-approval and re-submission requirements."
+        }
+      ]
+    }
+  ]
+}
