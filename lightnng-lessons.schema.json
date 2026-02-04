@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://level250.com/schemas/lightning-lessons.json",
+  "title": "Lightning Lessons",
+  "description": "Schema for Emmanuel Paraskakis's Lightning Lessons catalog on Maven",
+  "type": "object",
+  "properties": {
+    "lightningLessons": {
+      "type": "array",
+      "description": "Collection of Lightning Lesson events",
+      "items": {
+        "$ref": "#/$defs/lightningLesson"
+      }
+    }
+  },
+  "required": ["lightningLessons"],
+  "$defs": {
+    "lightningLesson": {
+      "type": "object",
+      "description": "A single Lightning Lesson event",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "URL-friendly unique identifier (slug)",
+          "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+        },
+        "title": {
+          "type": "string",
+          "description": "Display title of the Lightning Lesson"
+        },
+        "instructors": {
+          "type": "array",
+          "description": "Primary instructor(s) for the session",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        },
+        "guests": {
+          "type": "array",
+          "description": "Guest speakers or co-presenters",
+          "items": {
+            "type": "string"
+          }
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Maven registration/replay page URL"
+        },
+        "date": {
+          "type": "string",
+          "format": "date",
+          "description": "Date of the live session (YYYY-MM-DD)"
+        },
+        "status": {
+          "type": "string",
+          "enum": ["Scheduled", "On Demand"],
+          "description": "Whether the session is upcoming or available for replay"
+        },
+        "courseName": {
+          "type": "string",
+          "description": "Associated Maven course name",
+          "enum": [
+            "API Fundamentals for Product Managers",
+            "API Product Mastery for Experienced PMs",
+            "Build AI-Ready API Products With MCP"
+          ]
+        },
+        "courseUrl": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL of the associated Maven course"
+        },
+        "description": {
+          "type": "string",
+          "description": "Summary of what the session covers"
+        },
+        "outcomes": {
+          "type": "array",
+          "description": "Learning outcomes participants will achieve",
+          "items": {
+            "$ref": "#/$defs/outcome"
+          },
+          "minItems": 1
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "instructors",
+        "url",
+        "date",
+        "status",
+        "courseName",
+        "courseUrl",
+        "description",
+        "outcomes"
+      ]
+    },
+    "outcome": {
+      "type": "object",
+      "description": "A single learning outcome",
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Short title of the outcome"
+        },
+        "description": {
+          "type": "string",
+          "description": "Detailed explanation of what the learner will achieve"
+        }
+      },
+      "required": ["title", "description"]
+    }
+  }
+}
