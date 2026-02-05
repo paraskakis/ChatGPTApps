@@ -10,7 +10,7 @@ Users can either view a recording, sign up for an upcoming live lesson, or learn
 Lightning Lessons are conducted over Zoom and are practical and hands-on with skills you can use immediately. They are meant for tech-savvy mid-career professionals, especially those in the technology or software industry. They are conducted exclusively in the English language.
 The main Instructor is Emmanuel Paraskakis, an entrepreneur, product management executive, and consultant at Level 250 with over 15 years of experience shaping products.
 
-## Metadata
+## Evals
 ### Golden Prompts
 #### Direct Prompts
 - Show me all Lightning Lessons by Emmanuel Paraskakis
