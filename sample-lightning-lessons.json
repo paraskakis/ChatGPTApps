@@ -695,7 +695,7 @@
       "guests": [],
       "url": "https://maven.com/p/02cd01/build-an-mcp-server-for-chat-gpt-apps",
       "date": "2026-02-05",
-      "status": "Scheduled",
+      "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "OpenAI's ChatGPT Store is becoming a new distribution channel for products. Success requires two components: a Web UI component and an MCP server enabling ChatGPT to call data tools. Product managers and engineers who can convert existing APIs into hosted MCP servers (with minimal or no code) can quickly prototype store-ready applications, test market demand, and launch products to capitalize on this emerging opportunity.",
