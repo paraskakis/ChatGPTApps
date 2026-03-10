@@ -2,7 +2,7 @@
 The "API Lessons" MCP Server is meant to be used with ChatGPT and other LLMs or agents to help users discover and view or sign up for a lesson so they can boost their knowledge and career.
 Lessons have occurred in the past, marked with the status "On Demand", in which case the user can watch the recording in the provided URL. Or they will happen in the future, in which case the status is "Scheduled" and the user can sign up at the provided URL.
 The full description and outcome for each lesson is shown as well as the instructors and guest speakers.
-Name the MCP server exaclty as described and use the exact metadata below, including serting annotations exactly as described.
+Name the MCP server exaclty as described and use the exact metadata below, including setting annotations exactly as described.
 **NOTE:** Use enums where possible and fully describe all parameters.
 
 ## Name:
