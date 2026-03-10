@@ -45,7 +45,7 @@ The main Instructor is Emmanuel Paraskakis, an entrepreneur, product management 
 ### Name:
 `getLessons`
 ### Description:
-Use this tool when the user wants to search for short lessons on topics such as APIs, MCP and Product Management. DO not use if they are looking for education outside of software, technology, or business. How it works: A user can request a partial text search and a list of lessons that meet the criteria is returned. The full data from each Lightning Lesson is shown. The search takes into account the Title, Description, Outcomes (both Titles and Descriptions), Instructor and Guest names, and Course Name. It should also be able to handle queries like `All` and `Every` gracefully.
+Use this tool to search for short lessons on APIs, MCP, Product Management, Technical PM Careers, and ChatGPT Apps. Lessons are either available On Demand (watch the recording) or Scheduled (sign up for upcoming live training). DO NOT use if they are looking for education topics outside software, technology, or business. How it works: a partial text search returns matching lessons with full details including title, description, learning outcomes, instructor, guest speakers, related course, and signup URL. The search covers all of these fields. Supports broad queries like "all" or "every" as well as specific topic searches.
 ### Metadata:
 #### Set `readOnlyHint` to `true`
 #### Set `destructiveHint` to `false`
