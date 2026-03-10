@@ -24,7 +24,7 @@ The main Instructor is Emmanuel Paraskakis, an entrepreneur, product management 
 - All Maven API lessons
 #### Indirect Prompts:
 - I want to learn about APIs
-- Learn more abut MCP as a PM
+- Learn more about MCP as a PM
 - I want to know more about API Product Management
 - Are there any free short courses on API Products
 - How do I learn about MCP with live training
