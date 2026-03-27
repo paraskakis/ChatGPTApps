@@ -19,10 +19,3 @@ UI Hints:
 * Tighter grid spacing
 * Limited height (400px) for diagnostic views with scrolling
 * All key weather info visible at a glance without panning or scrolling
-
-## CRITICAL SKYBRIDGE RULES:
-1. NEVER create or import ANY CSS files - no index.css, no styles.css, nothing
-2. Widget filename MUST match tool name exactly (kebab-case)
-3. CSP: resourceDomains for external images, connectDomains for client-side fetch() only
-4. Server-side API calls don't need CSP configuration
-5. All styles inline using style={{}} prop only
