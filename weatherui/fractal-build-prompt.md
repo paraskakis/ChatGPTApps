@@ -19,3 +19,16 @@ UI Hints:
 * Tighter grid spacing
 * Limited height (400px) for diagnostic views with scrolling
 * All key weather info visible at a glance without panning or scrolling
+
+## Widget Development Requirements (CRITICAL for ChatGPT compatibility)
+- All styling MUST use React inline styles (style prop) only - NO external CSS files or CSS modules
+- DO NOT import any CSS files into widget components
+- All theme-aware styling must use the useLayout() hook for dark/light mode
+- Widget must handle missing/null data gracefully with error states
+- Always include isPending and error handling states
+
+## CSP Configuration (CRITICAL for ChatGPT Developer Mode)
+- **Resource Domains**: Explicitly list ALL external domains for images, fonts, or static resources that the widget loads (use https:// protocol)
+- **Connect Domains**: List domains for client-side API calls made FROM the widget (leave empty if API calls are server-side only)
+- **Frame Domains**: List domains if embedding iframes (leave empty if none)
+- **Example**: If widget displays weather icons from api.weather.gov, add `resourceDomains: ["https://api.weather.gov"]`
