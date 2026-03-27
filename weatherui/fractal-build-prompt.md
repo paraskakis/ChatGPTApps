@@ -20,17 +20,9 @@ UI Hints:
 * Limited height (400px) for diagnostic views with scrolling
 * All key weather info visible at a glance without panning or scrolling
 
-## CRITICAL CHATGPT COMPATIBILITY RULES
-
-These rules are NON-NEGOTIABLE. Violating ANY of them will cause blank widgets in ChatGPT:
-
-1. **NO CSS IMPORTS** - Never `import` any CSS file in widget components. Use ONLY inline `style` props.
-
-2. **Widget filename MUST match tool name exactly** - Use kebab-case (hyphens):
-   - Tool: "get-weather" → File: `web/src/widgets/get-weather.tsx`
-
-3. **Handle all 3 states explicitly**:
-   ```tsx
-   if (isPending) return <div style={{padding:"16px"}}>Loading...</div>;
-   if (!output || output.error) return <div style={{padding:"16px",color:"red"}}>Error</div>;
-   return <div style={{padding:"16px"}}>...content...</div>;
+## CRITICAL SKYBRIDGE RULES:
+1. NEVER create or import ANY CSS files - no index.css, no styles.css, nothing
+2. Widget filename MUST match tool name exactly (kebab-case)
+3. CSP: resourceDomains for external images, connectDomains for client-side fetch() only
+4. Server-side API calls don't need CSP configuration
+5. All styles inline using style={{}} prop only
