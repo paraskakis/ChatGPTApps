@@ -777,6 +777,186 @@
           "description": "Planning from concept to publication, including what becomes locked post-approval and re-submission requirements."
         }
       ]
+    },
+    {
+      "id": "why-agents-can-t-use-your-product",
+      "title": "Why Agents Can't Use Your Product",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/3c5bdf/why-agents-can-t-use-your-product",
+      "date": "2026-04-20",
+      "status": "On Demand",
+      "courseName": "What Agents Want from Your Product",
+      "courseUrl": "https://maven.com/emmanuel/what-agents-want",
+      "description": "Software has transitioned from clicks and taps to chatting with AI. There is another major change coming: people will start delegating tasks they want done to agents. Agents want outcomes, and the products that win will be the ones that give them the easiest path to those outcomes. In this session, you'll learn how agents use APIs and what stops them in their tracks, so you can fix them.",
+      "outcomes": [
+        {
+          "title": "Why your product is hard for agents to use",
+          "description": "Agents are smart but they also seek the quickest cheapest path to an outcome. We'll show you where they fail."
+        },
+        {
+          "title": "Four things agents want and one they don't",
+          "description": "Ideally you'll have one or more ways for agents to use tools and not have to scrape pages. We'll show what to use when."
+        },
+        {
+          "title": "How to check if your APIs are usable by agents",
+          "description": "We'll show you how to come up with a list of prompts and desired/undesired outcomes so you can test your own product."
+        },
+        {
+          "title": "The top changes to make your APIs friendlier to agents",
+          "description": "You'll take away a high-level plan and a 12-point checklist so you can get started towards agent-friendly API products."
+        }
+      ]
+    },
+    {
+      "id": "the-easiest-way-to-prototype-an-api",
+      "title": "The Easiest Way to Prototype an API",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/f24957/the-easiest-way-to-prototype-an-api",
+      "date": "2026-04-22",
+      "status": "Scheduled",
+      "courseName": "Build an API-First Product with AI",
+      "courseUrl": "https://maven.com/emmanuel/build-api-first-product",
+      "description": "Most API products launch without real customer validation. Teams spend months building, only to find out users wanted something different. A working prototype changes that. In 30 minutes, you'll see how to go from idea to a prototype your customers can actually try, and how to use their feedback to build the right thing the first time.",
+      "outcomes": [
+        {
+          "title": "Why customer validation is important for API products",
+          "description": "Your idea is just a hypothesis that you need to validate with actual customers \"outside the building\". APIs included."
+        },
+        {
+          "title": "How to build an API MVP the right way",
+          "description": "Learn the right way to build prototypes and MVPs, proven by 15+ years of experience and made easy with AI tools."
+        },
+        {
+          "title": "Generating your first prototype in minutes",
+          "description": "A high-quality API Spec lets you generate mock API with functional endpoints and documentation you can give to users."
+        },
+        {
+          "title": "How to gather and use customer feedback for API products",
+          "description": "You'll take away the tools to compile your feedback into Spec changes, ready for building your API product."
+        }
+      ]
+    },
+    {
+      "id": "why-your-product-needs-mcp",
+      "title": "Why Your Product Needs MCP",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/92c9a6/why-your-product-needs-mcp",
+      "date": "2026-04-27",
+      "status": "Scheduled",
+      "courseName": "Build an MCP Product with AI",
+      "courseUrl": "https://maven.com/emmanuel/build-mcp-product",
+      "description": "Everyone is talking about MCP but most teams have never seen a server from the inside. If your product doesn't have one, agents can't connect to it. In 30 minutes, you'll explore a working MCP server, use it live in Claude, and inspect how its tools work. Then we'll show you it was built with no code. You'll leave knowing what it takes to add MCP to your own product.",
+      "outcomes": [
+        {
+          "title": "Know when to use MCP vs APIs, CLIs, and Skills",
+          "description": "Four ways agents access your product. MCP is the only one that works on every surface. Know when & where each one fits."
+        },
+        {
+          "title": "What's inside an MCP server & why it matters",
+          "description": "Understand what Tools, Resources & Prompts are used for and how Descriptions affect Agent UX."
+        },
+        {
+          "title": "How to add MCP to an AI tool and use it",
+          "description": "Add a server to Claude, run tasks, and see how the agent picks the right tools in real time."
+        },
+        {
+          "title": "What's it like to build MCP for your product",
+          "description": "How to build your own MCP servers with no-code: tools available to you."
+        }
+      ]
+    },
+    {
+      "id": "build-for-chat-gpt-s-new-app-store",
+      "title": "Build for ChatGPT's New App Store",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/56fe68/build-for-chat-gpt-s-new-app-store",
+      "date": "2026-04-29",
+      "status": "Scheduled",
+      "courseName": "Build a ChatGPT App with AI",
+      "courseUrl": "https://maven.com/emmanuel/build-chatgpt-app",
+      "description": "ChatGPT has 900M weekly users and a new app directory with only 390 apps in it. That's a huge opportunity. But most teams don't know what a ChatGPT App even is, let alone how to build one. In 30 minutes, you'll tour the ecosystem, use real apps, see one I built with no-code, and learn OpenAI's framework for what makes a good app. You'll leave knowing whether this channel is right for your product.",
+      "outcomes": [
+        {
+          "title": "Why you're early for the ChatGPT Apps opportunity",
+          "description": "900M users, a growing directory, and almost nothing in it yet. We'll show you what's out there and what's missing."
+        },
+        {
+          "title": "What's a ChatGPT App and where to find one",
+          "description": "Explore the directory, install an app, run it live and understand what experiences are possible."
+        },
+        {
+          "title": "What makes a good ChatGPT App",
+          "description": "What are the best use cases. Which ones are bad. Not every product fits. Know if yours does."
+        },
+        {
+          "title": "How a ChatGPT App gets built with no code",
+          "description": "Know what tools are available, including no-code and how to start building and validating good ideas."
+        }
+      ]
+    },
+    {
+      "id": "good-cli-design-is-agent-ux",
+      "title": "Good CLI Design is Agent UX",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/d0cfd7/good-cli-design-is-agent-ux",
+      "date": "2026-05-06",
+      "status": "Scheduled",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Command-line tools are the leanest interfaces an agent can use, and every coding agent supports them. Your product probably needs it, but no one talks about CLI UX, even though it's never been more important. There is deep design wisdom dating back to the Unix philosophy, and agents benefit from it all. You'll learn what makes a great CLI, why agents love them, and principles no one else teaches.",
+      "outcomes": [
+        {
+          "title": "Why agents prefer CLI over other interfaces",
+          "description": "It's not just speed and tokens. Learn what makes CLI the most streamlined interface an agent can use."
+        },
+        {
+          "title": "The downsides you need to know about",
+          "description": "CLI isn't right for every product or every agent. Know when it fits and when other interfaces work better."
+        },
+        {
+          "title": "What good CLI design looks like",
+          "description": "Tour real CLIs agents love and ones they struggle with. Consistent flags, helpful errors, clean output."
+        },
+        {
+          "title": "How to add a CLI to your product",
+          "description": "Where to start with design. What tools are available and how to get started building one for your own product."
+        }
+      ]
+    },
+    {
+      "id": "agent-skills-and-why-your-product-needs-them",
+      "title": "Agent Skills and Why Your Product Needs Them",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/cd7f6b/agent-skills-and-why-your-product-needs-them",
+      "date": "2026-05-20",
+      "status": "Scheduled",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Skills go beyond simple Markdown files that automate tasks. They can stand on their own as knowledge & process distribution for your organization. They add intelligence to your other developer tools, such as APIs, SDKs, CLI, and MCP, for use as tutorials, documentation, and even onboarding. This session teaches you a framework for evaluating where Skills fit in your roadmap and how to build them.",
+      "outcomes": [
+        {
+          "title": "Where to find & install Skills",
+          "description": "Which directories have the best, secure Skills that you can use in AI tools."
+        },
+        {
+          "title": "What a useful, secure Skill looks like",
+          "description": "Understand the components of a Skill beyond simple Markdown. Know the risks that malicious Skills can introduce."
+        },
+        {
+          "title": "Use cases for Skills in your product",
+          "description": "Skills are useful on their own as instructions or documentation as well as to wrap and enhance your developer tools."
+        },
+        {
+          "title": "How to build and distribute Skills as part of your product",
+          "description": "Learn the framework to productize and go to market with agent Skills."
+        }
+      ]
     }
   ]
 }
