@@ -935,7 +935,7 @@
       "guests": [],
       "url": "https://maven.com/p/cd7f6b/agent-skills-and-why-your-product-needs-them",
       "date": "2026-05-20",
-      "status": "Scheduled",
+      "status": "On Demand",
       "courseName": "Build & Ship Agent Skills for Your Product",
       "courseUrl": "https://maven.com/emmanuel/build-agent-skills",
       "description": "Skills go beyond simple Markdown files that automate tasks. They can stand on their own as knowledge & process distribution for your organization. They add intelligence to your other developer tools, such as APIs, SDKs, CLI, and MCP, for use as tutorials, documentation, and even onboarding. This session teaches you a framework for evaluating where Skills fit in your roadmap and how to build them.",
@@ -955,6 +955,70 @@
         {
           "title": "How to build and distribute Skills as part of your product",
           "description": "Learn the framework to productize and go to market with agent Skills."
+        }
+      ]
+    },
+    {
+      "id": "design-an-api-product-with-agent-skills",
+      "title": "Design an API Product with Agent Skills",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/cdd48b/design-an-api-product-with-agent-skills",
+      "date": "2026-05-27",
+      "status": "On Demand",
+      "courseName": "Build & Ship Agent Skills for Your Product",
+      "courseUrl": "https://maven.com/emmanuel/build-agent-skills",
+      "description": "Can we make AI do API Design for us? Reliably? Like the best architect on the team? I built a Claude Code Skill just for that. It generates a complete API spec and lints it automatically for quality. You stay in the loop where it matters: the design decisions. AI handles the 1000-line JSON file nobody wants to type. In this session, I'll show you how it works and we'll run it together, hands-on.",
+      "outcomes": [
+        {
+          "title": "Build a complete, standards-based API design in 30 minutes",
+          "description": "We'll take you from an idea to a complete, highly usable API spec ready for prototyping or building."
+        },
+        {
+          "title": "Install and use the API Design Skill in Claude Code",
+          "description": "Complete process: User Stories→API Spec→Hill Climb to a high score→Preview Swagger Docs."
+        },
+        {
+          "title": "Understand how markdown context files work for high quality",
+          "description": "Dive into the 4 markdown files you'll use as input: Requirements, Domain Model, API Standards, OpenAPI best practices."
+        },
+        {
+          "title": "Learn the importance of hill-climbing to get higher quality",
+          "description": "Demonstrate the use of an OpenAPI linter and use the output to iteratively improve API quality up to 100%."
+        },
+        {
+          "title": "Take the Skill back to your organization and adapt it",
+          "description": "Distribute it to every PM on your team (yes, agents too) and ensure high quality API design that checks all the boxes."
+        }
+      ]
+    },
+    {
+      "id": "extending-claude-build-plugins-connectors",
+      "title": "Extending Claude: Build Plugins & Connectors",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": [],
+      "url": "https://maven.com/p/e82d26/extending-claude-build-plugins-connectors",
+      "date": "2026-06-24",
+      "status": "Scheduled",
+      "courseName": "Build & Ship Agent Skills for Your Product",
+      "courseUrl": "https://maven.com/emmanuel/build-agent-skills",
+      "description": "Your most engaged customers are in Claude, Cowork and Claude Code. Anthropic has built the protocols (Skills, MCP) and directories where you can submit your products as Plugins and Connectors for discovery and use by millions of your users and prospects. Learn which use cases are best suited for these extensions and what you need to know to build, submit, and promote them to your audience.",
+      "outcomes": [
+        {
+          "title": "How Claude users can leverage external tools and extensions",
+          "description": "What add-ons work well and how different user personas benefit from Connectors & Plugins as part of your product."
+        },
+        {
+          "title": "MCP & Connectors give access to external data",
+          "description": "How MCP helps bring your product into Claude and how to choose between MCP, APIs, and CLI. Explore top use cases."
+        },
+        {
+          "title": "Skills & Plugins automate processes",
+          "description": "Skills can be a core part of your product’s experience and Plugins take them even further. Each belongs on your roadmap."
+        },
+        {
+          "title": "Choosing between Anthropic's native & 3rd party directories",
+          "description": "Each offers different distribution advantages. Learn what it takes to submit to each and how to avoid the pitfalls."
         }
       ]
     }
