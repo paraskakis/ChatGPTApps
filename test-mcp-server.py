@@ -12,6 +12,7 @@ Tests:
   2. Tool title     — top-level `title` is set (expected: "Get Lessons")
   3. outputSchema   — declared on the tool, and well-formed
   4. Output JSON    — tools/call returns structuredContent that CONFORMS to outputSchema
+  5. Version        — serverInfo.version matches the version submitted to OpenAI
 
 Test 1 compares against the canonical file rather than a hardcoded lesson count,
 so it keeps working as lessons are added. If the file and server disagree, the
@@ -27,6 +28,10 @@ URL = "https://ll-mcp.replit.app/mcp"
 CANONICAL = os.path.join(os.path.dirname(os.path.abspath(__file__)), "sample-lightning-lessons.json")
 EXPECTED_TITLE = "Get Lessons"
 TOOL = "getLessons"
+
+# The version submitted to OpenAI. The server must report the same on initialize —
+# a mismatch means the Replit deploy is not the build that was submitted.
+EXPECTED_VERSION = "2.0.0"
 
 # Fields that must round-trip byte-identically from the file to the wire.
 COMPARED_FIELDS = ["id", "title", "instructors", "guests", "url", "date",
@@ -107,7 +112,13 @@ def main():
         print(f"  FAIL  server reachable — {e}")
         print("\nRESULT: FAIL (server unreachable; cannot run tests)")
         return 1
-    print(f"  server: {info['serverInfo']['name']} v{info['serverInfo']['version']}\n")
+    version = info["serverInfo"]["version"]
+    print(f"  server: {info['serverInfo']['name']} v{version}\n")
+
+    # --- Test 5: serverInfo.version matches what was submitted to OpenAI ---
+    check(f"5. serverInfo.version == {EXPECTED_VERSION!r}", version == EXPECTED_VERSION,
+          "" if version == EXPECTED_VERSION
+          else f"got {version!r} — deployed build is not the submitted one")
 
     # --- Test 2: tool title ---
     title = tool.get("title")
@@ -167,8 +178,9 @@ def main():
     failed = [n for n, ok, _ in results if not ok]
     print(f"\nRESULT: {'PASS' if not failed else 'FAIL'} — {len(results) - len(failed)}/{len(results)} checks passed")
     if failed:
-        print("\nIf test 1 failed but 2-4 passed, the code is fine and the DEPLOY did not land.")
+        print("\nIf test 1 or 5 failed but the rest passed, the code is fine and the DEPLOY did not land.")
         print("Deploy is a manual change in Replit (Emmanuel) — pushing git does not deploy.")
+        print(f"Test 5 failing means the live build predates the v{EXPECTED_VERSION} submitted to OpenAI.")
     return 1 if failed else 0
 
 
