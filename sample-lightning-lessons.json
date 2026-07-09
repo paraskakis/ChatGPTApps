@@ -905,7 +905,7 @@
       "guests": [],
       "url": "https://maven.com/p/d0cfd7/good-cli-design-is-agent-ux",
       "date": "2026-07-01",
-      "status": "Scheduled",
+      "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Command-line tools are the leanest interfaces an agent can use, and every coding agent supports them. Your product probably needs it, but no one talks about CLI UX, even though it's never been more important. There is deep design wisdom dating back to the Unix philosophy, and agents benefit from it all. You'll learn what makes a great CLI, why agents love them, and principles no one else teaches.",
@@ -999,7 +999,7 @@
       "guests": [],
       "url": "https://maven.com/p/e82d26/extending-claude-build-plugins-connectors",
       "date": "2026-06-24",
-      "status": "Scheduled",
+      "status": "On Demand",
       "courseName": "Build & Ship Agent Skills for Your Product",
       "courseUrl": "https://maven.com/emmanuel/build-agent-skills",
       "description": "Your most engaged customers are in Claude, Cowork and Claude Code. Anthropic has built the protocols (Skills, MCP) and directories where you can submit your products as Plugins and Connectors for discovery and use by millions of your users and prospects. Learn which use cases are best suited for these extensions and what you need to know to build, submit, and promote them to your audience.",
@@ -1019,6 +1019,36 @@
         {
           "title": "Choosing between Anthropic's native & 3rd party directories",
           "description": "Each offers different distribution advantages. Learn what it takes to submit to each and how to avoid the pitfalls."
+        }
+      ]
+    },
+    {
+      "id": "where-do-ai-ready-ap-is-come-from",
+      "title": "Where Do AI-Ready APIs Come From?",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Mike Amundsen"],
+      "url": "https://maven.com/p/2f6101/where-do-ai-ready-ap-is-come-from",
+      "date": "2026-07-22",
+      "status": "Scheduled",
+      "courseName": "API Fundamentals for Product Managers",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-fundamentals",
+      "description": "AI makes it easy to generate an API and ship it. It's just as easy to ship the wrong one: unsafe, unusable, or solving no real need.",
+      "outcomes": [
+        {
+          "title": "Why your APIs should start with stories, not specs",
+          "description": "Humans work around a wrong API. Agents just fail. Capture the real need before anything ships."
+        },
+        {
+          "title": "How to turn requirements into an API Story",
+          "description": "Write the five story parts from requirements you already own, and hand AI something worth building."
+        },
+        {
+          "title": "How to hold AI to your company standards",
+          "description": "Generate specs, docs, and prototypes that follow your standards instead of the model's habits."
+        },
+        {
+          "title": "Which design decisions you should never delegate",
+          "description": "Anyone can generate an API now. Learn where you stay in the loop so what ships is safe and usable."
         }
       ]
     }
