@@ -44,6 +44,8 @@ The main Instructor is Emmanuel Paraskakis, an entrepreneur, product management 
 1. Show information about Lightning Lessons
 ### Name:
 `getLessons`
+### Ttile:
+`Get Lessons`
 ### Description:
 Use this tool to search for short lessons on APIs, MCP, Product Management, Technical PM Careers, and ChatGPT Apps. Lessons are either available On Demand (watch the recording) or Scheduled (sign up for upcoming live training). DO NOT use if they are looking for education topics outside software, technology, or business. How it works: a partial text search returns matching lessons with full details including title, description, learning outcomes, instructor, guest speakers, related course, and signup URL. The search covers all of these fields. Supports broad queries like "all" or "every" as well as specific topic searches.
 ### Metadata:
