@@ -1051,6 +1051,36 @@
           "description": "Anyone can generate an API now. Learn where you stay in the loop so what ships is safe and usable."
         }
       ]
+    },
+    {
+      "id": "agents-want-real-mcp-not-your-converted-api",
+      "title": "Agents Want Real MCP, Not Your Converted API",
+      "instructors": ["Emmanuel Paraskakis"],
+      "guests": ["Sri Kandikonda"],
+      "url": "https://maven.com/p/9026e8/agents-want-real-mcp-not-your-converted-api",
+      "date": "2026-07-29",
+      "status": "Scheduled",
+      "courseName": "Build AI-Ready API Products With MCP",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Everyone is giving agents access by converting existing APIs into MCP servers. I've argued that's a fine start. Sri Kandikonda, who builds hyperscale API products at FedEx (a billion tracking transactions a day), disagrees: real MCP means working backward from the intended agentic experience. We'll trade lessons on what works in reality, not theory. Leave knowing how, and how not, to build MCP.",
+      "outcomes": [
+        {
+          "title": "How not to build MCP",
+          "description": "See why converting existing APIs into MCP tools disappoints agents and the teams that ship them."
+        },
+        {
+          "title": "Work backwards from the agentic experience",
+          "description": "Start from the intended agentic experience and design MCP tools that map to what agents want to get done."
+        },
+        {
+          "title": "What hyper scale teaches about building for agents",
+          "description": "Lessons from API products running at a billion transactions a day: what breaks, what holds, what to copy."
+        },
+        {
+          "title": "Learning from the business side of MCP built for agents",
+          "description": "Leave knowing when to invest in MCP, what to build first, and how to make the business case."
+        }
+      ]
     }
   ]
 }
