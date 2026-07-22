@@ -1,13 +1,13 @@
 {
   "lightningLessons": [
     {
-      "id": "how-to-break-into-api-product-management",
+      "id": "521e40",
       "title": "How to break into API Product Management",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/521e40/how-to-break-into-api-product-management",
+      "url": "https://maven.com/p/521e40",
       "date": "2025-01-29",
       "status": "On Demand",
       "courseName": "API Fundamentals for Product Managers",
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "id": "leverage-ai-to-drive-better-api-product-decisions",
+      "id": "bb8fa7",
       "title": "Leverage AI to Drive Better API Product Decisions",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -41,7 +41,7 @@
       "guests": [
         "Derric Gilling"
       ],
-      "url": "https://maven.com/p/bb8fa7/leverage-ai-to-drive-better-api-product-decisions",
+      "url": "https://maven.com/p/bb8fa7",
       "date": "2025-04-09",
       "status": "On Demand",
       "courseName": "API Fundamentals for Product Managers",
@@ -67,13 +67,13 @@
       ]
     },
     {
-      "id": "build-your-own-api-prototype-in-20-minutes-with-ai",
+      "id": "da039e",
       "title": "Build Your Own API Prototype in 20 Minutes with AI",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/da039e/build-your-own-api-prototype-in-20-minutes-with-ai",
+      "url": "https://maven.com/p/da039e",
       "date": "2025-04-16",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -95,7 +95,7 @@
       ]
     },
     {
-      "id": "create-ai-powered-api-documentation-fast",
+      "id": "33bd21",
       "title": "Create AI-Powered API Documentation Fast",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -103,7 +103,7 @@
       "guests": [
         "Ana Robakidze"
       ],
-      "url": "https://maven.com/p/33bd21/create-ai-powered-api-documentation-fast",
+      "url": "https://maven.com/p/33bd21",
       "date": "2025-04-30",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -129,13 +129,13 @@
       ]
     },
     {
-      "id": "develop-deploy-and-secure-your-api-with-ai-codegen",
+      "id": "867a8a",
       "title": "Develop, Deploy and Secure Your API with AI Codegen",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/867a8a/develop-deploy-and-secure-your-api-with-ai-codegen",
+      "url": "https://maven.com/p/867a8a",
       "date": "2025-05-07",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "id": "ai-agents-are-coming-for-your-api-are-you-ready",
+      "id": "d4116d",
       "title": "AI Agents are Coming for Your API - Are You Ready?",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -169,7 +169,7 @@
       "guests": [
         "Zdenek Nemec"
       ],
-      "url": "https://maven.com/p/d4116d/ai-agents-are-coming-for-your-api-are-you-ready",
+      "url": "https://maven.com/p/d4116d",
       "date": "2025-05-21",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -195,13 +195,13 @@
       ]
     },
     {
-      "id": "build-ai-ready-apis-with-mcp",
+      "id": "ec0698",
       "title": "Build AI-Ready APIs with MCP",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/ec0698/build-ai-ready-apis-with-mcp",
+      "url": "https://maven.com/p/ec0698",
       "date": "2025-05-28",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -227,13 +227,13 @@
       ]
     },
     {
-      "id": "hands-on-mcp-from-api-to-live-mcp-server-in-minutes",
+      "id": "fa9d3e",
       "title": "Hands-On MCP: From API to Live MCP Server in Minutes",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/fa9d3e/hands-on-mcp-from-api-to-live-mcp-server-in-minutes",
+      "url": "https://maven.com/p/fa9d3e",
       "date": "2025-08-27",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -263,13 +263,13 @@
       ]
     },
     {
-      "id": "12-things-every-api-product-needs-to-be-agent-ready",
+      "id": "6d0f32",
       "title": "12 Things Every API Product Needs to Be Agent-Ready",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/6d0f32/12-things-every-api-product-needs-to-be-agent-ready",
+      "url": "https://maven.com/p/6d0f32",
       "date": "2025-10-06",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -295,7 +295,7 @@
       ]
     },
     {
-      "id": "agent-impact-from-chaos-to-clarity",
+      "id": "fca59a",
       "title": "Agent Impact: From Chaos to Clarity",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -303,7 +303,7 @@
       "guests": [
         "Abhijit Kane"
       ],
-      "url": "https://maven.com/p/fca59a/agent-impact-from-chaos-to-clarity",
+      "url": "https://maven.com/p/fca59a",
       "date": "2025-10-15",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "id": "use-ai-to-build-your-ai-product",
+      "id": "0617ff",
       "title": "Use AI To Build Your AI Product",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -337,7 +337,7 @@
       "guests": [
         "Sagar Batchu"
       ],
-      "url": "https://maven.com/p/0617ff/use-ai-to-build-your-ai-product",
+      "url": "https://maven.com/p/0617ff",
       "date": "2025-10-20",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -363,7 +363,7 @@
       ]
     },
     {
-      "id": "build-your-own-ai-powered-api-for-n8n",
+      "id": "18bd3a",
       "title": "Build Your Own AI-Powered API for n8n",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -371,7 +371,7 @@
       "guests": [
         "Timothy Maguire"
       ],
-      "url": "https://maven.com/p/18bd3a/build-your-own-ai-powered-api-for-n8n",
+      "url": "https://maven.com/p/18bd3a",
       "date": "2025-10-29",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "id": "fix-your-broken-api-process",
+      "id": "a352d5",
       "title": "Fix Your Broken API Process",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -409,7 +409,7 @@
       "guests": [
         "Gareth Faull"
       ],
-      "url": "https://maven.com/p/a352d5/fix-your-broken-api-process",
+      "url": "https://maven.com/p/a352d5",
       "date": "2025-11-03",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -439,7 +439,7 @@
       ]
     },
     {
-      "id": "land-your-next-technical-product-manager-job-with-ai",
+      "id": "a26fc1",
       "title": "Land Your Next Technical Product Manager Job With AI",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -447,7 +447,7 @@
       "guests": [
         "Itay Sharfi"
       ],
-      "url": "https://maven.com/p/a26fc1/land-your-next-technical-product-manager-job-with-ai",
+      "url": "https://maven.com/p/a26fc1",
       "date": "2025-11-10",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -477,7 +477,7 @@
       ]
     },
     {
-      "id": "how-to-get-hired-at-an-ai-startup",
+      "id": "8fc0ef",
       "title": "How to Get Hired at an AI Startup",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -485,7 +485,7 @@
       "guests": [
         "Ty Dunn"
       ],
-      "url": "https://maven.com/p/8fc0ef/how-to-get-hired-at-an-ai-startup",
+      "url": "https://maven.com/p/8fc0ef",
       "date": "2025-11-19",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -515,13 +515,13 @@
       ]
     },
     {
-      "id": "publish-your-first-mcp-server-today",
+      "id": "455b9d",
       "title": "Publish Your First MCP Server Today",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/455b9d/publish-your-first-mcp-server-today",
+      "url": "https://maven.com/p/455b9d",
       "date": "2025-11-25",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -547,13 +547,13 @@
       ]
     },
     {
-      "id": "the-double-life-of-the-api-product-manager",
+      "id": "67e697",
       "title": "The Double Life of the API Product Manager",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/67e697/the-double-life-of-the-api-product-manager",
+      "url": "https://maven.com/p/67e697",
       "date": "2025-12-03",
       "status": "On Demand",
       "courseName": "API Fundamentals for Product Managers",
@@ -583,13 +583,13 @@
       ]
     },
     {
-      "id": "design-a-public-api-product-from-scratch",
+      "id": "11ff34",
       "title": "Design a Public API Product from Scratch",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/11ff34/design-a-public-api-product-from-scratch",
+      "url": "https://maven.com/p/11ff34",
       "date": "2026-01-05",
       "status": "On Demand",
       "courseName": "API Fundamentals for Product Managers",
@@ -615,13 +615,13 @@
       ]
     },
     {
-      "id": "design-a-partner-api-that-drives-revenue",
+      "id": "8e654f",
       "title": "Design a Partner API That Drives Revenue",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/8e654f/design-a-partner-api-that-drives-revenue",
+      "url": "https://maven.com/p/8e654f",
       "date": "2026-01-12",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -647,7 +647,7 @@
       ]
     },
     {
-      "id": "upgrade-your-api-design-with-ai",
+      "id": "fed1c1",
       "title": "Upgrade Your API Design with AI",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -655,7 +655,7 @@
       "guests": [
         "James Higginbotham"
       ],
-      "url": "https://maven.com/p/fed1c1/upgrade-your-api-design-with-ai",
+      "url": "https://maven.com/p/fed1c1",
       "date": "2026-01-19",
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
@@ -685,13 +685,13 @@
       ]
     },
     {
-      "id": "master-mcp-essentials-for-pms",
+      "id": "2b57c0",
       "title": "Master MCP Essentials for PMs",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/2b57c0/master-mcp-essentials-for-pms",
+      "url": "https://maven.com/p/2b57c0",
       "date": "2026-01-21",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -721,13 +721,13 @@
       ]
     },
     {
-      "id": "create-mcp-tool-evals-before-you-ship",
+      "id": "1c26ae",
       "title": "Create MCP Tool Evals Before You Ship",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/1c26ae/create-mcp-tool-evals-before-you-ship",
+      "url": "https://maven.com/p/1c26ae",
       "date": "2026-01-28",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -757,13 +757,13 @@
       ]
     },
     {
-      "id": "build-an-mcp-server-for-chatgpt-apps",
+      "id": "02cd01",
       "title": "Build an MCP Server for ChatGPT Apps",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/02cd01/build-an-mcp-server-for-chatgpt-apps",
+      "url": "https://maven.com/p/02cd01",
       "date": "2026-02-05",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -789,13 +789,13 @@
       ]
     },
     {
-      "id": "design-chatgpt-apps-worth-building",
+      "id": "4d9d7d",
       "title": "Design ChatGPT Apps Worth Building",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/4d9d7d/design-chatgpt-apps-worth-building",
+      "url": "https://maven.com/p/4d9d7d",
       "date": "2026-03-04",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -821,13 +821,13 @@
       ]
     },
     {
-      "id": "get-your-chatgpt-app-approved-by-openai",
+      "id": "74283e",
       "title": "Get Your ChatGPT App Approved by OpenAI",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/74283e/get-your-chatgpt-app-approved-by-openai",
+      "url": "https://maven.com/p/74283e",
       "date": "2026-03-11",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -853,13 +853,13 @@
       ]
     },
     {
-      "id": "why-agents-can-t-use-your-product",
+      "id": "3c5bdf",
       "title": "Why Agents Can't Use Your Product",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/3c5bdf/why-agents-can-t-use-your-product",
+      "url": "https://maven.com/p/3c5bdf",
       "date": "2026-04-20",
       "status": "On Demand",
       "courseName": "What Agents Want from Your Product",
@@ -885,13 +885,13 @@
       ]
     },
     {
-      "id": "the-easiest-way-to-prototype-an-api",
+      "id": "f24957",
       "title": "The Easiest Way to Prototype an API",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/f24957/the-easiest-way-to-prototype-an-api",
+      "url": "https://maven.com/p/f24957",
       "date": "2026-04-22",
       "status": "On Demand",
       "courseName": "Build an API-First Product with AI",
@@ -917,13 +917,13 @@
       ]
     },
     {
-      "id": "why-your-product-needs-mcp",
+      "id": "92c9a6",
       "title": "Why Your Product Needs MCP",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/92c9a6/why-your-product-needs-mcp",
+      "url": "https://maven.com/p/92c9a6",
       "date": "2026-04-27",
       "status": "On Demand",
       "courseName": "Build an MCP Product with AI",
@@ -949,13 +949,13 @@
       ]
     },
     {
-      "id": "build-for-chatgpt-s-new-app-store",
+      "id": "56fe68",
       "title": "Build for ChatGPT's New App Store",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/56fe68/build-for-chatgpt-s-new-app-store",
+      "url": "https://maven.com/p/56fe68",
       "date": "2026-04-29",
       "status": "On Demand",
       "courseName": "Build a ChatGPT App with AI",
@@ -981,13 +981,13 @@
       ]
     },
     {
-      "id": "agent-skills-and-why-your-product-needs-them",
+      "id": "cd7f6b",
       "title": "Agent Skills and Why Your Product Needs Them",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/cd7f6b/agent-skills-and-why-your-product-needs-them",
+      "url": "https://maven.com/p/cd7f6b",
       "date": "2026-05-20",
       "status": "On Demand",
       "courseName": "Build & Ship Agent Skills for Your Product",
@@ -1013,13 +1013,13 @@
       ]
     },
     {
-      "id": "design-an-api-product-with-agent-skills",
+      "id": "cdd48b",
       "title": "Design an API Product with Agent Skills",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/cdd48b/design-an-api-product-with-agent-skills",
+      "url": "https://maven.com/p/cdd48b",
       "date": "2026-05-27",
       "status": "On Demand",
       "courseName": "Build an API-First Product with AI",
@@ -1049,13 +1049,13 @@
       ]
     },
     {
-      "id": "extending-claude-build-plugins-connectors",
+      "id": "e82d26",
       "title": "Extending Claude: Build Plugins & Connectors",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/e82d26/extending-claude-build-plugins-connectors",
+      "url": "https://maven.com/p/e82d26",
       "date": "2026-06-24",
       "status": "On Demand",
       "courseName": "Build an MCP Product with AI",
@@ -1081,13 +1081,13 @@
       ]
     },
     {
-      "id": "good-cli-design-is-agent-ux",
+      "id": "d0cfd7",
       "title": "Good CLI Design is Agent UX",
       "instructors": [
         "Emmanuel Paraskakis"
       ],
       "guests": [],
-      "url": "https://maven.com/p/d0cfd7/good-cli-design-is-agent-ux",
+      "url": "https://maven.com/p/d0cfd7",
       "date": "2026-07-01",
       "status": "On Demand",
       "courseName": "Build AI-Ready API Products With MCP",
@@ -1113,7 +1113,7 @@
       ]
     },
     {
-      "id": "where-do-ai-ready-apis-come-from",
+      "id": "2f6101",
       "title": "Where Do AI-Ready APIs Come From?",
       "instructors": [
         "Emmanuel Paraskakis"
@@ -1121,7 +1121,7 @@
       "guests": [
         "Mike Amundsen"
       ],
-      "url": "https://maven.com/p/2f6101/where-do-ai-ready-apis-come-from",
+      "url": "https://maven.com/p/2f6101",
       "date": "2026-07-22",
       "status": "On Demand",
       "courseName": "API Fundamentals for Product Managers",
