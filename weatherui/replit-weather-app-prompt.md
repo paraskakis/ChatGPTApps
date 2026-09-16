@@ -17,12 +17,12 @@ Name the server `airport-weather`
 - Generate a single compact inline card per the MCP App spec
 - If an NWS field is missing or null, return it as missing. Never use a fallback.
 - Fields to display:
-  - temperatureC: Celsius
-  - dewPoint: Celsius
-  - windSpeedKt: knots
-  - windDirection: numeric degrees
-  - visibilityMi: statute miles
-  - barometric pressure: NWS barometric pressure converted to inHg when present
+  - temperatureC: Celsius (integer)
+  - dewPoint: Celsius (integer)
+  - windSpeedKt: knots (integer)
+  - windDirection: numeric degrees (integer)
+  - visibilityMi: statute miles (integer)
+  - barometric pressure: NWS barometric pressure converted to inHg when present (two decimals)
 - Show missing values as “Not reported”.
 - Format wind direction as a three-digit bearing at presentation time, e.g. 005°, 090°, 270°.
 - Register an MCP Apps `ui://` HTML resource linked to the tool.
