@@ -1,57 +1,55 @@
-Build an Airport Weather MCP server plus a separate sample UI.
+Build an MCP App to display the current weather at a station
 
-FUNCTIONAL REQUIREMENTS
+# FUNCTIONAL REQUIREMENTS
 
-1. MCP SERVER
+## MCP APP
 
-Weather data
-- Accept a 3–8 character ICAO station identifier, such as KJFK.
-- Use only the NWS API:
-  GET https://api.weather.gov/stations/{ICAO}/observations/latest
-- If an NWS field is missing or null, return it as missing. Never use METAR, AviationWeather.gov, or another fallback.
-- Normalize:
+### MCP Server
+Name the server `airport-weather`
+- Expose a single `get_airport_weather` tool with title `Get Airport Weather`
+- Set the tool description to `Displays the latest aviation weather report for an airport or weather station. Data source is the US National Weather Service. Uses the 4-character ICAO location ID as input - match the closest airport to the user's location. Use when the user says "get the latest weather" for an airport. Do not use for locations outside the USA or for city weather or when the user wants a weather forecast`
+- Set `readOnlyHint` to true
+- Set `destructiveHint` to false
+- Set `openWorldHint` to false
+- Set `idemotontHint` to true
+
+### MCP UI
+- Generate a single compact inline card per the MCP App spec
+- If an NWS field is missing or null, return it as missing. Never use a fallback.
+- Fields to display:
   - temperatureC: Celsius
+  - dewPoint: Celsius
   - windSpeedKt: knots
   - windDirection: numeric degrees
   - visibilityMi: statute miles
   - barometric pressure: NWS barometric pressure converted to inHg when present
-- Expose a `get_airport_weather` tool with readable text and structured JSON.
 - Show missing values as “Not reported”.
 - Format wind direction as a three-digit bearing at presentation time, e.g. 005°, 090°, 270°.
-
-MCP rendering
 - Register an MCP Apps `ui://` HTML resource linked to the tool.
-- The resource should render the structured tool result as an interactive weather card.
-- Include station, temperature, condition, wind, direction, visibility, pressure, timestamp, and NWS source.
+- Include station code and name, timestamp in UTC, and NWS source as a link.
 
 2. SEPARATE SAMPLE UI
-
 - Create a standalone React/Vite sample web UI in its own artifact.
 - Do not make the sample UI part of the MCP transport or MCP resource implementation.
 - Provide an ICAO input and “Check weather” action.
 - Consume the REST weather endpoint directly, not the MCP endpoint.
 - Include loading, empty, error, and success states.
-- Use a responsive aviation dashboard/card layout.
-- Display °C, kt, statute miles, in, and three-digit wind direction.
-- Clearly label the source as NWS.
-- Include observation time and an NWS station link.
+- Use the exact smae presentation as the MCP UI
 
-NON-FUNCTIONAL REQUIREMENTS
+# NON-FUNCTIONAL REQUIREMENTS
 
-MCP server
+## MCP server
 - Use TypeScript and the official MCP TypeScript SDK v2:
   - `createMcpHandler`
   - per-request `McpServer` factory
   - `toNodeHandler`
 - Expose only `/mcp`.
-- Do not create or preserve `/api/mcp`; that is a legacy route.
 - Use MCP protocol version `2026-07-28`.
-- Use stateless modern MCP transport.
 - Serve the UI resource as `text/html;profile=mcp-app`.
-- Include standard MCP Apps UI metadata and OpenAI output-template compatibility metadata.
+- Include standard MCP Apps UI metadata and OpenAI/Claude output-template compatibility metadata.
 - Validate Origin headers and preserve cache metadata.
 
-Project architecture
+## Project architecture
 - Keep the MCP server and sample UI as separate concerns/artifacts.
 - Define REST contracts in OpenAPI first, then generate Zod schemas and React Query clients.
 - Bind services to the workflow-provided `PORT`.
