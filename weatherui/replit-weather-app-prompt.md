@@ -7,7 +7,7 @@ Build an MCP App to display the current weather at a station
 ### MCP Server
 Name the server `airport-weather`
 - Expose a single `get_airport_weather` tool with title `Get Airport Weather`
-- Set the tool description to `Displays the latest aviation weather report for an airport or weather station. Data source is the US National Weather Service. Uses the 4-character ICAO location ID as input - match the closest airport to the user's location. Use when the user says "get the latest weather" for an airport. Do not use for locations outside the USA or for city weather or when the user wants a weather forecast`
+- Set the tool description to `Displays the latest aviation weather report for an airport or weather station. Data source is the US National Weather Service. Uses the 4-character ICAO location ID as input - match the closest airport to the user's location. Use this when the user says "get the latest weather" for an airport. Do not use for locations outside the USA or for city weather or when the user wants a weather forecast`
 - Set `readOnlyHint` to true
 - Set `destructiveHint` to false
 - Set `openWorldHint` to false
