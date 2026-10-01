@@ -236,7 +236,7 @@
       "url": "https://maven.com/p/fa9d3e",
       "date": "2025-08-27",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Only trust MCP servers from the owner of a resource.\nPublish your own MCP server for your APIs urgently, before someone else steps in!\nIf you want to get started publishing an MCP server, we'll show you how to get started quickly, so you avoid the potential of someone else to poison or man-in-the-middle Agent access to your API.\nThis will be a hands-on session, where you'll deploy your MCP server!",
       "outcomes": [
@@ -272,7 +272,7 @@
       "url": "https://maven.com/p/6d0f32",
       "date": "2025-10-06",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Agents aren\u2019t coming\u2014they\u2019re already here, transforming how APIs are consumed and integrated. Your next API consumers aren\u2019t just developers but AI-driven agents demanding clarity and simplicity. Are your APIs agent-ready?\n\nThis Lightning Lesson introduces 12 actionable approaches to help API PMs, Engineers, and Architects lead in agent-driven ecosystems.",
       "outcomes": [
@@ -306,7 +306,7 @@
       "url": "https://maven.com/p/fca59a",
       "date": "2025-10-15",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Ever felt buried under endless feedback, requests, or bug reports?\nYou\u2019ll discover how we moved from reactive, issue-by-issue problem solving to a system that can analyze, connect, and prioritize thousands of signals at once. Through the story of building our own in-house agent, you\u2019ll see how AI can act as a teammate, summarizing, cross-referencing, and even suggesting immediate solutions.",
       "outcomes": [
@@ -340,7 +340,7 @@
       "url": "https://maven.com/p/0617ff",
       "date": "2025-10-20",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Speakeasy is a platform for creating, curating, and hosting MCP servers.\n\nThe company uses AI behind the scenes to build, test, support & document new AI developer products, serving as the ground zero for understanding how LLMs can accelerate both product development and operations.\n\nYou'll learn from real-world examples, not theory.",
       "outcomes": [
@@ -374,7 +374,7 @@
       "url": "https://maven.com/p/18bd3a",
       "date": "2025-10-29",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Retail teams lose hours every week manually classifying products across different marketplace taxonomies. This means slower launches, inconsistent data, and missed revenue.\nWith today\u2019s AI tools and APIs, this problem can be solved in days, not months. This session shows how to use LLMs and lightweight frameworks to automate categorization at scale, with human guardrails for quality and control.",
       "outcomes": [
@@ -488,7 +488,7 @@
       "url": "https://maven.com/p/8fc0ef",
       "date": "2025-11-19",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Ever wondered what founders really look for when building their team?\nJoin us for a candid conversation on what it takes to stand out and succeed in the world of AI startups. You\u2019ll get an inside look at how platform and technical product roles are evolving, how founders think about hiring and culture fit, and what skills set apart PMs and engineers who thrive in high-velocity AI companies.",
       "outcomes": [
@@ -524,7 +524,7 @@
       "url": "https://maven.com/p/455b9d",
       "date": "2025-11-25",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "AI agents need access to your APIs and data. Model Context Protocol (MCP) is the open standard that makes this possible, and it just turned one year old. Learn why major companies are adopting MCP, understand the latest spec updates, and publish your first working server. Whether you're building agents or evaluating MCP for your team, this session gives you what you need to start.",
       "outcomes": [
@@ -694,7 +694,7 @@
       "url": "https://maven.com/p/2b57c0",
       "date": "2026-01-21",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "MCP is emerging as the standard way AI apps connect to real tools and data, like APIs for agents. For PMs, it unlocks connected ChatGPT experiences and a path to store-ready apps, while reducing one-off integrations. In this lesson, you\u2019ll learn what MCP is, where the spec is today, and how to try it in ChatGPT. You'll understand the state of the MCP spec and potential pitfalls to look out for.",
       "outcomes": [
@@ -730,7 +730,7 @@
       "url": "https://maven.com/p/1c26ae",
       "date": "2026-01-28",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "MCP makes LLM apps powerful, but one wrong tool call can break flows, waste tokens, or return bad data. Tool evals measure task success, catch selection mistakes early, and detect drift as APIs and data change. We'll learn how to set up a repeatable eval harness with MCPJam to improve reliability now and monitor regressions as you ship updates.",
       "outcomes": [
@@ -766,7 +766,7 @@
       "url": "https://maven.com/p/02cd01",
       "date": "2026-02-05",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "OpenAI's ChatGPT Store is becoming the new distribution channel for products. To get listed, you need two layers: a Web UI component and an MCP server that lets ChatGPT call data tools. PMs and engineers who can turn an existing API into a hosted MCP server (low/no-code) can prototype store-ready apps fast, validate demand, and ship products to take advantage of this emerging opportunity.",
       "outcomes": [
@@ -798,7 +798,7 @@
       "url": "https://maven.com/p/4d9d7d",
       "date": "2026-03-04",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "ChatGPT Apps let third parties extend what ChatGPT can do, but they're not for every product or feature. Before getting started, you need to know what makes a great app, what works inside a conversation, and how to spot ideas that won't fit. This lesson gives Product Managers and business leaders the foundations to evaluate opportunities and ask the right questions.",
       "outcomes": [
@@ -830,7 +830,7 @@
       "url": "https://maven.com/p/74283e",
       "date": "2026-03-11",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "OpenAI reviews every ChatGPT App before it goes live. Many submissions get rejected for avoidable reasons. This lesson gives PMs and business leaders an overview of the process, the platform constraints that affect what you can build, and the pitfalls that delay approval. You'll leave knowing what to expect and what to ask your dev team to take advantage of this new distribution opportunity",
       "outcomes": [
@@ -958,8 +958,8 @@
       "url": "https://maven.com/p/56fe68",
       "date": "2026-04-29",
       "status": "On Demand",
-      "courseName": "Build a ChatGPT App with AI",
-      "courseUrl": "https://maven.com/emmanuel/build-chatgpt-app",
+      "courseName": "Build an MCP App with AI",
+      "courseUrl": "https://maven.com/emmanuel/build-mcp-app",
       "description": "ChatGPT has 900M weekly users and a new app directory with only 390 apps in it. That's a huge opportunity. But most teams don't know what a ChatGPT App even is, let alone how to build one. In 30 minutes, you'll tour the ecosystem, use real apps, see one I built with no-code, and learn OpenAI's framework for what makes a good app. You'll leave knowing whether this channel is right for your product.",
       "outcomes": [
         {
@@ -1090,7 +1090,7 @@
       "url": "https://maven.com/p/d0cfd7",
       "date": "2026-07-01",
       "status": "On Demand",
-      "courseName": "Build AI-Ready API Products With MCP",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Command-line tools are the leanest interfaces an agent can use, and every coding agent supports them. Your product probably needs it, but no one talks about CLI UX, even though it's never been more important. There is deep design wisdom dating back to the Unix philosophy, and agents benefit from it all. You'll learn what makes a great CLI, why agents love them, and principles no one else teaches.",
       "outcomes": [
@@ -1143,6 +1143,254 @@
         {
           "title": "Which design decisions you should never delegate",
           "description": "Anyone can generate an API now. Learn where you stay in the loop so what ships is safe and usable."
+        }
+      ]
+    },
+    {
+      "id": "08fde4",
+      "title": "Building APIs That Move Money",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Abhishek Guglani"
+      ],
+      "url": "https://maven.com/p/08fde4",
+      "date": "2026-08-10",
+      "status": "On Demand",
+      "courseName": "API Product Mastery for Experienced PMs",
+      "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
+      "description": "Payment APIs live under rules most teams never face: real money, regulators, compliance, zero tolerance for failure. That discipline produced habits worth stealing. Abhishek Guglani, who led API and platform work at Visa, joins me to share what payments-grade practice and Visa-scale governance look like, and what you can apply to your own API portfolio tomorrow.",
+      "outcomes": [
+        {
+          "title": "Why APIs that move money play by different rules",
+          "description": "What payment APIs must guarantee that ordinary APIs can get away with and what that discipline looks like."
+        },
+        {
+          "title": "What every API team can steal from payment products",
+          "description": "Habits payment platforms enforce that you can apply to your own API tomorrow, even in an unregulated environment."
+        },
+        {
+          "title": "What holds an API platform together through acquisitions",
+          "description": "Lessons from Visa-scale governance as teams, tech, processes, and opinions kept multiplying."
+        },
+        {
+          "title": "Making the API case to leaders who don't live in APIs",
+          "description": "The playbook that actually landed with non-technical executives, and more importantly, what doesn't work in the C-suite."
+        }
+      ]
+    },
+    {
+      "id": "76163f",
+      "title": "How to Run AI Agents in High-Stakes, Real-World Systems",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Sri Kandikonda"
+      ],
+      "url": "https://maven.com/p/76163f",
+      "date": "2026-08-12",
+      "status": "On Demand",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Anyone can demo an AI agent. Running one in the real world is another story. Production agents need more than intelligence. They need the right workflows, guardrails, tooling, and human collaboration to deliver reliable outcomes. Sri will share lessons from building and scaling agents beyond prototypes, how agents create value, where they fail, and what you'll need to make them work in production.",
+      "outcomes": [
+        {
+          "title": "Run a team of humans and AI agents side by side",
+          "description": "See a product team work with an agent teammate that drafts and reviews PRDs across product and engineering every day."
+        },
+        {
+          "title": "Learn what production-grade guardrails look like",
+          "description": "See the guardrails that keep agents inside enterprise, legal, security, and cost limits, and when a human takes over."
+        },
+        {
+          "title": "Move your agents beyond the prototype stage",
+          "description": "Understand why agent projects die at POC, and the evals and human-in-the-loop discipline that take them to production."
+        },
+        {
+          "title": "Watch a live agent demo you can recreate",
+          "description": "We spin up an AI agent teammate on a real workflow problem, with patterns you can apply immediately to build your own."
+        }
+      ]
+    },
+    {
+      "id": "df4c6b",
+      "title": "Agentic Payments: How AI Agents Move Money",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Zdenek \"Z\" Nemec"
+      ],
+      "url": "https://maven.com/p/df4c6b",
+      "date": "2026-09-23",
+      "status": "On Demand",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Your customers will soon delegate authority to autonomous agents to conduct commerce and buy your products on their behalf. If you want to win this opportunity, you must understand agentic payment protocols and which standards to adopt. Zdenek \"Z\" Nemec has been at the cutting edge of AI connectivity since 2020. He explains your options and maps out your path to implementing agentic commerce.",
+      "outcomes": [
+        {
+          "title": "Understand the 3 types of agentic payments",
+          "description": "Agentic payments cover three distinct flows: commerce, machine payments, and treasury."
+        },
+        {
+          "title": "Learn how agentic commerce works",
+          "description": "Agentic commerce lets an agent take a buyer from product discovery to a merchant checkout."
+        },
+        {
+          "title": "Know the different types of agent payment protocols",
+          "description": "Deep dive into ACP, UCP, AP2, x402 and Visa/Mastercard Payment Identity."
+        },
+        {
+          "title": "Use a framework to prioritize your agentic payments roadmap",
+          "description": "Which protocols, payment programs, and vendors to adopt and in what sequence - depending on your own use case."
+        }
+      ]
+    },
+    {
+      "id": "463766",
+      "title": "Build Your First Connector for Muse, Meta's AI Agent",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Muse AI"
+      ],
+      "url": "https://maven.com/p/463766",
+      "date": "2026-10-09",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Meta's Muse hit #1 on the App Store with 2.8M downloads and 642K daily users in 12 days (US/Canada), faster than ChatGPT. Meta AI already reaches over a billion people a month, so this could be the next App Store moment. Over 2,000 connectors are already in, and the window is closing. See what it takes to get your product or service into Muse, and leave with the tools to build your connector.",
+      "outcomes": [
+        {
+          "title": "How to find, add and use connectors in Muse AI",
+          "description": "See where connectors show up for Muse users, and where your product or service would fit in."
+        },
+        {
+          "title": "MCP or raw API: which path gets your connector into Muse",
+          "description": "Compare both paths Meta accepts, what Muse needs from each, and what makes an agent actually call your tools."
+        },
+        {
+          "title": "What makes a great Muse AI connector",
+          "description": "What I've learned teaching and shipping Claude and ChatGPT connectors and plugins, applied to your product or service."
+        },
+        {
+          "title": "Everything you need to build and test your own connector",
+          "description": "Walk away with my prompts, their repo and the tools I use, so you can build and test your connector after the session."
+        },
+        {
+          "title": "A checklist for submitting to Muse's directory",
+          "description": "Everything Meta's form asks for today, plus where Muse differs from the Claude and ChatGPT directories."
+        }
+      ]
+    },
+    {
+      "id": "c72c42",
+      "title": "Become One of the First MCP Product Managers in 2027",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [],
+      "url": "https://maven.com/p/c72c42",
+      "date": "2026-10-14",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Every company wants agents to use its products. The smartest are hiring PMs for it. Intuit, HubSpot, Vanta, Amplitude and Shippo want them to own MCP. One example: \"Own MCP as a product: define what ownership means, how it evolves\u2026\" Engineers build the server. Who it's for, what it exposes and whether it works is product work. The first MCP PMs write the playbook. In an hour, see what the job is and leave with a plan for what you need to learn.",
+      "outcomes": [
+        {
+          "title": "Why agents created a new kind of PM",
+          "description": "Agents are now users of your product. See why companies want one PM deciding what those agents can do with it."
+        },
+        {
+          "title": "What an MCP PM decides, from golden prompts to tool choices",
+          "description": "See how users, use cases and their agents decide which backend resources become tools. Hint: not every endpoint."
+        },
+        {
+          "title": "How an MCP PM gets from evals to distribution",
+          "description": "See why tool names and descriptions are UX for agents, how to eval them, where to submit, and what changes after launch."
+        },
+        {
+          "title": "Where MCP PM differs from API PM",
+          "description": "MCP is one part of Agent Experience (AX), with APIs, CLIs and Skills. See what carries over and what is new."
+        },
+        {
+          "title": "Your plan to become an MCP PM",
+          "description": "Identify your gaps and how to bridge them, plus real MCP PM job descriptions to measure yourself against."
+        }
+      ]
+    },
+    {
+      "id": "5e3f5b",
+      "title": "Build a Plugin for ChatGPT's 1.2B Users",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [],
+      "url": "https://maven.com/p/5e3f5b",
+      "date": "2026-10-21",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Big news: Sam Altman is doubling down on plugins. There are only 5,066 so far and your product could be next. ChatGPT now recommends them mid-conversation. They also work in dots, the new agents everyone will be trying. I've been building plugins since January, 2026 and already have one approved in the directory. I'll show you how to build it right, how to design it and what to watch out for when you submit. You get my prompts and a GitHub repo.",
+      "outcomes": [
+        {
+          "title": "What changed for ChatGPT plugins after OpenAI's DevDay 2026",
+          "description": "See where your product fits among plugins, the directory and OpenAI's new dots agents."
+        },
+        {
+          "title": "How ChatGPT decides which plugins to recommend",
+          "description": "Learn what OpenAI says it rewards, and the part of your plugin most teams overlook."
+        },
+        {
+          "title": "Which plugin features work only in ChatGPT",
+          "description": "Compare OpenAI's new extensions with standard MCP Apps, so your plugin can also run in Claude."
+        },
+        {
+          "title": "How to build a plugin with my prompts & which tools to use",
+          "description": "Get my prompts and a GitHub repo so you can build your own plugin, start to finish. And get a list of tools that work."
+        },
+        {
+          "title": "What to watch out for when you submit to OpenAI",
+          "description": "Avoid the gotchas I hit getting my plugin approved, so your first submission doesn't get rejected (and what to fix)."
+        }
+      ]
+    },
+    {
+      "id": "80777c",
+      "title": "Build a Claude Connector for Your Product",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [],
+      "url": "https://maven.com/p/80777c",
+      "date": "2026-11-04",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Millions of people connect Claude to their work tools every day. A connector puts your product right there, and Claude can suggest it mid-chat. Claude's directory has 3,589 connectors, up 610 in a week, more than ChatGPT added. Already built for ChatGPT? You're most of the way there. My connector has been live in Claude's directory since August. I'll show you how to build yours and what Anthropic checks. You get my prompts and a GitHub repo.",
+      "outcomes": [
+        {
+          "title": "Where your product fits in Claude and Claude Code",
+          "description": "See where people find and use connectors today, and which jobs your product could do for them there."
+        },
+        {
+          "title": "How Claude picks a connector without being asked",
+          "description": "Learn which connectors Claude suggests mid-chat, and the submission choice that decides if yours is one."
+        },
+        {
+          "title": "What changes when you bring a ChatGPT plugin to Claude",
+          "description": "Reuse the same MCP App, and learn the few things Anthropic checks that OpenAI doesn't."
+        },
+        {
+          "title": "How to build and test a connector with my prompts",
+          "description": "Get my prompts, a GitHub repo and the tools I use, so you can build your own connector after the session."
+        },
+        {
+          "title": "What Anthropic's 10-page submission form asks for",
+          "description": "Avoid the gotchas I hit getting my connector approved, so your first submission goes through."
         }
       ]
     }
