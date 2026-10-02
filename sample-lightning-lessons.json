@@ -62,7 +62,7 @@
         },
         {
           "title": "Customize Analytics Without Code",
-          "description": "Tailor Moesif dashboards to your  API product needs without requiring technical expertise or engineering support."
+          "description": "Tailor Moesif dashboards to your API product needs without requiring technical expertise or engineering support."
         }
       ]
     },
@@ -452,7 +452,7 @@
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
       "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
-      "description": "Having interviewed hundreds of applicants between us, we'll uncover the key areas you need to focus on:  The difference between people who get coveted roles in AI and other technical areas and those who don\u2019t isn\u2019t\ntalent - it\u2019s demonstrated experience, proof, and a helpful network. So stop chasing jobs and start proving value. Replace \u201cspray & pray\" with \u201clearn & show\u201d.",
+      "description": "Having interviewed hundreds of applicants between us, we'll uncover the key areas you need to focus on: The difference between people who get coveted roles in AI and other technical areas and those who don\u2019t isn\u2019t\ntalent - it\u2019s demonstrated experience, proof, and a helpful network. So stop chasing jobs and start proving value. Replace \u201cspray & pray\" with \u201clearn & show\u201d.",
       "outcomes": [
         {
           "title": "How to Make the Odds Be in Your Favor",
@@ -594,7 +594,7 @@
       "status": "On Demand",
       "courseName": "API Fundamentals for Product Managers",
       "courseUrl": "https://maven.com/emmanuel/api-pm-fundamentals",
-      "description": "A public API turns your product into a platform. It reduces churn as users build your product into their workflows, whether they code, or use tools like Zapier. In 30 minutes, I'll show you how to go from raw user feedback to an API design. We'll come up with an API for Maven students like you as our example. Bring your own use case or follow along.  You'll leave with a process you can repeat.",
+      "description": "A public API turns your product into a platform. It reduces churn as users build your product into their workflows, whether they code, or use tools like Zapier. In 30 minutes, I'll show you how to go from raw user feedback to an API design. We'll come up with an API for Maven students like you as our example. Bring your own use case or follow along. You'll leave with a process you can repeat.",
       "outcomes": [
         {
           "title": "Collect & Organize Developers' API Requirements",
