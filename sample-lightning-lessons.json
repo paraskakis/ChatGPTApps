@@ -78,7 +78,7 @@
       "status": "On Demand",
       "courseName": "API Product Mastery for Experienced PMs",
       "courseUrl": "https://maven.com/emmanuel/api-pm-mastery",
-      "description": "At the end of this hands-on session, you\u2019ll have an API prototype that you can:\n 1) Show to customers for discovery, validation and feedback.\n 2) Use to pitch a new product idea internally\n 3) Create concrete product specification as part of your product requirements\u00a0\n4) Unblock Front-End teams so they can start building while a back-end team implements the API",
+      "description": "At the end of this hands-on session, you\u2019ll have an API prototype that you can:\n 1) Show to customers for discovery, validation and feedback.\n 2) Use to pitch a new product idea internally\n 3) Create concrete product specification as part of your product requirements \n4) Unblock Front-End teams so they can start building while a back-end team implements the API",
       "outcomes": [
         {
           "title": "Quickly create accurate OpenAPI specifications using LLMs",
@@ -258,7 +258,7 @@
         },
         {
           "title": "Session sponsored by AI Collective",
-          "description": "The AI Collective is a\u00a0non-profit, grassroots community exploring the frontier of AI. \nNOTE: We'll use Roam, not Zoom!"
+          "description": "The AI Collective is a non-profit, grassroots community exploring the frontier of AI. \nNOTE: We'll use Roam, not Zoom!"
         }
       ]
     },
@@ -380,7 +380,7 @@
       "outcomes": [
         {
           "title": "How to turn a ChatGPT prototype into a production-ready API",
-          "description": "See how an idea tested in a chat\u00a0window evolved into a\u00a0fully deployed Flask API with OpenAPI docs."
+          "description": "See how an idea tested in a chat window evolved into a fully deployed Flask API with OpenAPI docs."
         },
         {
           "title": "Design AI-Powered APIs that blend reasoning and rules",
@@ -392,7 +392,7 @@
         },
         {
           "title": "Test and Evaluate AI APIs in production",
-          "description": "Understand practical methods for creating automated evals, tracking\u00a0accuracy, and managing model drift and rate limits."
+          "description": "Understand practical methods for creating automated evals, tracking accuracy, and managing model drift and rate limits."
         },
         {
           "title": "Lessons from Building an AI API for Marketplace Taxonomies",
@@ -1024,7 +1024,7 @@
       "status": "On Demand",
       "courseName": "Build an API-First Product with AI",
       "courseUrl": "https://maven.com/emmanuel/build-api-first-product",
-      "description": "Can we make AI do API Design for us? Reliably? Like the best architect on the team?\nI built a Claude Code Skill just for that.\nIt generates a complete API spec and lints it automatically for quality.\u2028You stay in the loop where it matters: the design decisions. AI handles the 1000-line JSON file nobody wants to type.\nIn this session, I'll show you how it works and we'll run it together, hands-on.",
+      "description": "Can we make AI do API Design for us? Reliably? Like the best architect on the team?\nI built a Claude Code Skill just for that.\nIt generates a complete API spec and lints it automatically for quality. You stay in the loop where it matters: the design decisions. AI handles the 1000-line JSON file nobody wants to type.\nIn this session, I'll show you how it works and we'll run it together, hands-on.",
       "outcomes": [
         {
           "title": "Build a complete, standards-based API design in 30 minutes",
