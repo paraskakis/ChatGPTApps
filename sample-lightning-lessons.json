@@ -1292,7 +1292,7 @@
       ],
       "guests": [],
       "url": "https://maven.com/p/c72c42",
-      "date": "2026-10-21",
+      "date": "2026-10-28",
       "status": "Scheduled",
       "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
@@ -1317,42 +1317,6 @@
         {
           "title": "Your plan to become an MCP PM",
           "description": "Identify your gaps and how to bridge them, plus real MCP PM job descriptions to measure yourself against."
-        }
-      ]
-    },
-    {
-      "id": "5e3f5b",
-      "title": "Build a Plugin for ChatGPT's 1.2B Users",
-      "instructors": [
-        "Emmanuel Paraskakis"
-      ],
-      "guests": [],
-      "url": "https://maven.com/p/5e3f5b",
-      "date": "2026-10-28",
-      "status": "Scheduled",
-      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
-      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
-      "description": "Big news: Sam Altman is doubling down on plugins. There are only 5,066 so far and your product could be next. ChatGPT now recommends them mid-conversation. They also work in dots, the new agents everyone will be trying. I've been building plugins since January, 2026 and already have one approved in the directory. I'll show you how to build it right, how to design it and what to watch out for when you submit. You get my prompts and a GitHub repo.",
-      "outcomes": [
-        {
-          "title": "What changed for ChatGPT plugins after OpenAI's DevDay 2026",
-          "description": "See where your product fits among plugins, the directory and OpenAI's new dots agents."
-        },
-        {
-          "title": "How ChatGPT decides which plugins to recommend",
-          "description": "Learn what OpenAI says it rewards, and the part of your plugin most teams overlook."
-        },
-        {
-          "title": "Which plugin features work only in ChatGPT",
-          "description": "Compare OpenAI's new extensions with standard MCP Apps, so your plugin can also run in Claude."
-        },
-        {
-          "title": "How to build a plugin with my prompts & which tools to use",
-          "description": "Get my prompts and a GitHub repo so you can build your own plugin, start to finish. And get a list of tools that work."
-        },
-        {
-          "title": "What to watch out for when you submit to OpenAI",
-          "description": "Avoid the gotchas I hit getting my plugin approved, so your first submission doesn't get rejected (and what to fix)."
         }
       ]
     },
@@ -1389,6 +1353,42 @@
         {
           "title": "What Anthropic's 10-page submission form asks for",
           "description": "Avoid the gotchas I hit getting my connector approved, so your first submission goes through."
+        }
+      ]
+    },
+    {
+      "id": "5e3f5b",
+      "title": "Build a Dots/ChatGPT Plugin & Get Your Product to 1.2B Users",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [],
+      "url": "https://maven.com/p/5e3f5b",
+      "date": "2026-11-11",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Big news: Sam Altman is doubling down on plugins. There are only 5,066 so far and your product could be next. ChatGPT now recommends them mid-conversation. They also work in dots, the new agents everyone will be trying. I've been building plugins since January, 2026 and already have one approved in the directory. I'll show you how to build it right, how to design it and what to watch out for when you submit. You get my prompts and a GitHub repo.",
+      "outcomes": [
+        {
+          "title": "What changed for ChatGPT plugins after OpenAI's DevDay 2026",
+          "description": "See where your product fits among plugins, the directory and OpenAI's new dots agents."
+        },
+        {
+          "title": "How ChatGPT decides which plugins to recommend",
+          "description": "Learn what OpenAI says it rewards, and the part of your plugin most teams overlook."
+        },
+        {
+          "title": "Which plugin features work only in ChatGPT",
+          "description": "Compare OpenAI's new extensions with standard MCP Apps, so your plugin can also run in Claude."
+        },
+        {
+          "title": "How to build a plugin with my prompts & which tools to use",
+          "description": "Get my prompts and a GitHub repo so you can build your own plugin, start to finish. And get a list of tools that work."
+        },
+        {
+          "title": "What to watch out for when you submit to OpenAI",
+          "description": "Avoid the gotchas I hit getting my plugin approved, so your first submission doesn't get rejected (and what to fix)."
         }
       ]
     }
