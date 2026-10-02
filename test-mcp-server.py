@@ -21,6 +21,7 @@ deploy did not land — deploy is Emmanuel's manual step in Replit.
 
 import json
 import os
+import re
 import sys
 import urllib.request
 
@@ -56,8 +57,9 @@ def rpc(method, params=None, session=None, notify=False):
         raw = resp.read().decode()
     if notify:
         return None, sid
-    # Streamable HTTP frames responses as SSE: "data: {...}"
-    for line in raw.splitlines():
+    # Streamable HTTP frames responses as SSE: "data: {...}". SSE lines end only at
+    # CR/LF; str.splitlines() also splits on U+2028 inside lesson text (Oct 2 2026).
+    for line in re.split(r"\r\n|\r|\n", raw):
         if line.startswith("data: "):
             msg = json.loads(line[6:])
             if "error" in msg:
