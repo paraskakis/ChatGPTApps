@@ -1319,6 +1319,44 @@
       ]
     },
     {
+      "id": "0b306e",
+      "title": "Build a Beautiful Claude & ChatGPT App With No Code",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Hanh Nguyen"
+      ],
+      "url": "https://maven.com/p/0b306e",
+      "date": "2026-10-21",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Your product can now live inside Claude & ChatGPT, with its own UI right in the chat. Building that used to take a team of engineers. In this hands-on hour with Hanh Nguyen of Fractal, you'll compare your UI options for agents, learn what makes an app worth opening, and build and test your own in about 30 minutes with no code. You'll leave with an app you built yourself, tested in Claude or ChatGPT, and a clear view of where agentic UI is going.",
+      "outcomes": [
+        {
+          "title": "The state of agent UI",
+          "description": "MCP Apps, the open standard for Claude, ChatGPT and MCPJam, OpenAI's ChatGPT-only extensions, and open-source options."
+        },
+        {
+          "title": "What makes a beautiful app",
+          "description": "When a bad UI gets in the way, good fit vs. poor fit, the three display modes, and UI mistakes that get apps rejected."
+        },
+        {
+          "title": "Build your own app live, without code",
+          "description": "Log into Fractal, pick a ready-made prompt, generate an MCP app with UI, try it in the playground and then deploy it."
+        },
+        {
+          "title": "Test your app in Claude, ChatGPT and tool inspectors",
+          "description": "Add your app to each, see the UI render, then tweak tool descriptions until your \"golden prompts\" trigger reliably."
+        },
+        {
+          "title": "Where agent UI is going",
+          "description": "OpenAI announced its own extensions, open-source alternatives, and models increasingly able to render UI on the fly."
+        }
+      ]
+    },
+    {
       "id": "c72c42",
       "title": "Become an MCP Product Manager & Build Agent Experiences",
       "instructors": [
