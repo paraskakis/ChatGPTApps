@@ -1285,6 +1285,40 @@
       ]
     },
     {
+      "id": "30361e",
+      "title": "MCP Evals for PMs: Test How Well Agents Can Use Your Product",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Prathmesh Patel"
+      ],
+      "url": "https://maven.com/p/30361e",
+      "date": "2026-10-13",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Agents decide whether to use your product. ChatGPT, Claude, Cursor and Copilot each pick tools, fill in arguments and use the results their own way, and you only see the calls they make, not the ones they skip. Evals are how a PM knows. In this hands-on hour with Prathmesh Patel, CEO of MCPJam, you'll generate evals and run them yourself. You'll leave able to test how well agents can use your product, and to keep testing on every release.",
+      "outcomes": [
+        {
+          "title": "Why every MCP server, plugin and connector needs evals",
+          "description": "See how agents decide whether to call your tools, and why each AI client decides differently."
+        },
+        {
+          "title": "What golden prompts are and how PMs come up with them",
+          "description": "Learn how to turn real customer tasks into the prompts your product has to get right."
+        },
+        {
+          "title": "How to set up and run evals in MCPJam",
+          "description": "Run evals live alongside Prathmesh, generate test cases automatically, and read what the scores tell you."
+        },
+        {
+          "title": "How to scale evals across models and releases",
+          "description": "See how MCPJam's CLI and SDK rerun your evals, so you can record a baseline and raise your success score from there."
+        }
+      ]
+    },
+    {
       "id": "c72c42",
       "title": "Become an MCP Product Manager & Build Agent Experiences",
       "instructors": [
