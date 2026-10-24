@@ -1321,44 +1321,6 @@
       ]
     },
     {
-      "id": "0b306e",
-      "title": "Build a Beautiful Claude & ChatGPT App With No Code",
-      "instructors": [
-        "Emmanuel Paraskakis"
-      ],
-      "guests": [
-        "Hanh Nguyen"
-      ],
-      "url": "https://maven.com/p/0b306e",
-      "date": "2026-11-02",
-      "status": "Scheduled",
-      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
-      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
-      "description": "Your product can now live inside Claude & ChatGPT, with its own UI right in the chat. Building that used to take a team of engineers. In this hands-on hour with Hanh Nguyen of Fractal, you'll compare your UI options for agents, learn what makes an app worth opening, and build and test your own in about 30 minutes with no code. You'll leave with an app you built yourself, tested in Claude or ChatGPT, and a clear view of where agentic UI is going.",
-      "outcomes": [
-        {
-          "title": "The state of agent UI",
-          "description": "MCP Apps, the open standard for Claude, ChatGPT and MCPJam, OpenAI's ChatGPT-only extensions, and open-source options."
-        },
-        {
-          "title": "What makes a beautiful app",
-          "description": "When a bad UI gets in the way, good fit vs. poor fit, the three display modes, and UI mistakes that get apps rejected."
-        },
-        {
-          "title": "Build your own app live, without code",
-          "description": "Log into Fractal, pick a ready-made prompt, generate an MCP app with UI, try it in the playground and then deploy it."
-        },
-        {
-          "title": "Test your app in Claude, ChatGPT and tool inspectors",
-          "description": "Add your app to each, see the UI render, then tweak tool descriptions until your \"golden prompts\" trigger reliably."
-        },
-        {
-          "title": "Where agent UI is going",
-          "description": "OpenAI announced its own extensions, open-source alternatives, and models increasingly able to render UI on the fly."
-        }
-      ]
-    },
-    {
       "id": "80777c",
       "title": "Build a Claude Connector for Your Product",
       "instructors": [
@@ -1429,6 +1391,120 @@
       ]
     },
     {
+      "id": "a5f933",
+      "title": "Agent-Led Growth: How ChatGPT and Claude Pick Products",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Elliot Garreffa"
+      ],
+      "url": "https://maven.com/p/a5f933",
+      "date": "2026-11-11",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Growth used to mean ranking on Google. Now your customers ask ChatGPT or Claude, and the agent picks the product for them. Over 14,000 plugins and connectors showcase products and compete to be that pick. Yet ChatGPT suggests only about 200 of its 7,000+. Elliot Garreffa tracks every one daily. Learn how to make your product one of them: pick the right directory for your users, find out what gets you suggested, then track it and improve it.",
+      "outcomes": [
+        {
+          "title": "Why AI agents will do the buying for your users",
+          "description": "See how agents already search, compare and book for users, and why they skip your website and UI."
+        },
+        {
+          "title": "How fast the ChatGPT plugin and Claude connector race moves",
+          "description": "Watch the directories grow from 142 listings to over 14,000 in under a year, and see the trends behind it."
+        },
+        {
+          "title": "Why ChatGPT and Claude pick so few plugins and connectors",
+          "description": "See the Discoverability Scores and category leaderboards, and what the products agents pick do differently."
+        },
+        {
+          "title": "Which platform to bet on: ChatGPT, Claude, Muse or Grok",
+          "description": "Compare audience, growth and how each one picks products, so you know where to build first."
+        },
+        {
+          "title": "Where your product stands with AI agents today",
+          "description": "Look up your product or a competitor live, and see results for attendee products scored ahead of the lesson."
+        }
+      ]
+    },
+    {
+      "id": "0b306e",
+      "title": "Build a Beautiful Claude & ChatGPT App With No Code",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Hanh Nguyen"
+      ],
+      "url": "https://maven.com/p/0b306e",
+      "date": "2026-11-12",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Your product can now live inside Claude & ChatGPT, with its own UI right in the chat. Building that used to take a team of engineers. In this hands-on hour with Hanh Nguyen of Fractal, you'll compare your UI options for agents, learn what makes an app worth opening, and build and test your own in about 30 minutes with no code. You'll leave with an app you built yourself, tested in Claude or ChatGPT, and a clear view of where agentic UI is going.",
+      "outcomes": [
+        {
+          "title": "The state of agent UI",
+          "description": "MCP Apps, the open standard for Claude, ChatGPT and MCPJam, OpenAI's ChatGPT-only extensions, and open-source options."
+        },
+        {
+          "title": "What makes a beautiful app",
+          "description": "When a bad UI gets in the way, good fit vs. poor fit, the three display modes, and UI mistakes that get apps rejected."
+        },
+        {
+          "title": "Build your own app live, without code",
+          "description": "Log into Fractal, pick a ready-made prompt, generate an MCP app with UI, try it in the playground and then deploy it."
+        },
+        {
+          "title": "Test your app in Claude, ChatGPT and tool inspectors",
+          "description": "Add your app to each, see the UI render, then tweak tool descriptions until your \"golden prompts\" trigger reliably."
+        },
+        {
+          "title": "Where agent UI is going",
+          "description": "OpenAI announced its own extensions, open-source alternatives, and models increasingly able to render UI on the fly."
+        }
+      ]
+    },
+    {
+      "id": "a49065",
+      "title": "MCP Security Horror Stories: AI Agents vs. Your Product",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Kyle Stratis"
+      ],
+      "url": "https://maven.com/p/a49065",
+      "date": "2026-11-13",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "Your MCP server hands AI agents your customers' data and the power to act on it. A tool scoped too broadly leaks that data, a vague one deletes it, weak auth lets the wrong people in, and a look-alike server steals it. On Friday the 13th, Kyle Stratis, author of O'Reilly's AI Agents with MCP, joins Emmanuel to walk through the MCP horror stories so far and how to avoid each one. You'll leave with a checklist to run on Monday.",
+      "outcomes": [
+        {
+          "title": "How to spot the risks an MCP server adds to your product",
+          "description": "Learn the main risks: tools that reach too much data, tools that delete it, weak auth, and fake MCP servers."
+        },
+        {
+          "title": "How to recognize prompt injection and malicious MCP servers",
+          "description": "See how each documented attack worked, what it taught us, and how to avoid making the same mistake."
+        },
+        {
+          "title": "How to limit what agents can do through your MCP server",
+          "description": "Choose which tools stay read-only, which need a person to approve, and what data each user's agent can reach."
+        },
+        {
+          "title": "How to use the OWASP MCP Top 10 before you ship",
+          "description": "Learn what each of the ten risks means for your product and leave with a checklist you can share with your team."
+        },
+        {
+          "title": "What's solved in MCP security and what still isn't",
+          "description": "Get Kyle's read, as author of O'Reilly's AI Agents with MCP, on what the latest spec fixes and where to learn more."
+        }
+      ]
+    },
+    {
       "id": "5e3f5b",
       "title": "Build a Dots/ChatGPT Plugin & Get Your Product to 1.2B Users",
       "instructors": [
@@ -1436,7 +1512,7 @@
       ],
       "guests": [],
       "url": "https://maven.com/p/5e3f5b",
-      "date": "2026-11-11",
+      "date": "2026-11-19",
       "status": "Scheduled",
       "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
