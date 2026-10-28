@@ -1293,7 +1293,7 @@
       "guests": [],
       "url": "https://maven.com/p/c72c42",
       "date": "2026-10-28",
-      "status": "Scheduled",
+      "status": "On Demand",
       "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
       "description": "Every company wants agents to use its products. The smartest are hiring PMs for it. Intuit, HubSpot, Vanta, Amplitude and Shippo want them to own MCP. One example: \"Own MCP as a product: define what ownership means, how it evolves\u2026\" Engineers build the server. Who it's for, what it exposes and whether it works is product work. The first MCP PMs write the playbook. In an hour, see what the job is and leave with a plan for what you need to learn.",
