@@ -1329,10 +1329,10 @@
       "guests": [],
       "url": "https://maven.com/p/80777c",
       "date": "2026-11-04",
-      "status": "Scheduled",
+      "status": "On Demand",
       "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
       "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
-      "description": "Millions of people connect Claude to their work tools every day. A connector puts your product right there, and Claude can suggest it mid-chat. Claude's directory has 3,589 connectors, up 610 in a week, more than ChatGPT added. Already built for ChatGPT? You're most of the way there. My connector has been live in Claude's directory since August. I'll show you how to build yours and what Anthropic checks. You get my prompts and a GitHub repo.",
+      "description": "Millions of people connect Claude to their work tools every day. A connector puts your product right there, and Claude can suggest it mid-chat. Claude's directory has 8,251 connectors, 724 added last week and 4,660 added in a month! Already built for ChatGPT? You're most of the way there. My connector has been live in Claude's directory since August. I'll show you how to build yours and what Anthropic checks. You get my prompts and a GitHub repo.",
       "outcomes": [
         {
           "title": "Where your product fits in Claude and Claude Code",
@@ -1412,11 +1412,11 @@
         },
         {
           "title": "How fast the ChatGPT plugin and Claude connector race moves",
-          "description": "Watch the directories grow from 142 listings to over 14,000 in under a year, and see the trends behind it."
+          "description": "We'll explore how the directories grew from 142 listings to over 15,000 in under a year, and see the trends behind it."
         },
         {
           "title": "Why ChatGPT and Claude pick so few plugins and connectors",
-          "description": "See the Discoverability Scores and category leaderboards, and what the products agents pick do differently."
+          "description": "See the Discoverability Scores and category leaderboards, and how you can improve it with Agent Tool Optimization (ATO)."
         },
         {
           "title": "Which platform to bet on: ChatGPT, Claude, Muse or Grok",
@@ -1537,6 +1537,40 @@
         {
           "title": "What to watch out for when you submit to OpenAI",
           "description": "Avoid the gotchas I hit getting my plugin approved, so your first submission doesn't get rejected (and what to fix)."
+        }
+      ]
+    },
+    {
+      "id": "779a20",
+      "title": "Context Is the Moat: How to Build API Products for Agents",
+      "instructors": [
+        "Emmanuel Paraskakis"
+      ],
+      "guests": [
+        "Illia Shapoval"
+      ],
+      "url": "https://maven.com/p/779a20",
+      "date": "2026-11-24",
+      "status": "Scheduled",
+      "courseName": "Build What Agents Want: MCP, APIs, Skills & Plugins",
+      "courseUrl": "https://maven.com/emmanuel/build-ai-ready-apis",
+      "description": "AI can draft an API spec or an MCP server in minutes, but it builds from whatever context you give it. Hand it a half-page brief and it fills the gaps with guesses. Your product ends up like everyone else's - not very useful to real customers. Illia Shapoval shows how to build product context that captures your domain, rules & goals, then we turn it into an OpenAPI spec and a mock with an agent skill. You'll learn how real API products are built.",
+      "outcomes": [
+        {
+          "title": "Why product context is the moat when everyone uses AI",
+          "description": "Most teams build on the same AI models. Find out what still sets your API or MCP product apart."
+        },
+        {
+          "title": "Build the context your API or MCP server needs",
+          "description": "Go past the half-page brief and capture the entities, attributes and rules your product runs on."
+        },
+        {
+          "title": "Write rules your API specs can be tested against",
+          "description": "Develop rules precisely enough that the spec, the tests, and your team agree on what correct means."
+        },
+        {
+          "title": "Turn product context into an OpenAPI spec and a mock",
+          "description": "Learn to use an agent skill to turn context into an OpenAPI spec and a mock prototype, then take the skill to your team."
         }
       ]
     }
